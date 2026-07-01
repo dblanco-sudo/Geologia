@@ -19,11 +19,11 @@ Este respositorio se pude visualizar en [GitHub pages](https://github.com/cursos
 
 ## Contenidos
 
-1. [Tema 1. Fuentes de información y métodos en Geología](Tema1/Tema1.qmd)
-1. [Tema 2. La tectónica de placas](Tema2/Tema2.qmd)
-1. [Tema 3. Procesos geológicos internos](Tema3/Tema3.qmd)
-1. [Tema 4. Procesos geológicos externos](Tema4/Tema4.qmd)
-1. [Tema 5. Minerales, los componentes de las rocas](Tema5/Tema5.qmd)
-1. [Tema 6. Rocas ígneas, sedimentarias y metamórficas](Tema6/Tema6.qmd)
-1. [Tema 7. Historia de la Tierra y la vida](Tema7/Tema7.qmd)
-1. [Tema 8. Recursos geológicos](Tema8/Tema8.qmd)
+1. [Tema 1. Fuentes de información y métodos en Geología](Tema1/Tema1.html)
+1. [Tema 2. La tectónica de placas](Tema2/Tema2.html)
+1. [Tema 3. Procesos geológicos internos](Tema3/Tema3.html)
+1. [Tema 4. Procesos geológicos externos](Tema4/Tema4.html)
+1. [Tema 5. Minerales, los componentes de las rocas](Tema5/Tema5.html)
+1. [Tema 6. Rocas ígneas, sedimentarias y metamórficas](Tema6/Tema6.html)
+1. [Tema 7. Historia de la Tierra y la vida](Tema7/Tema7.html)
+1. [Tema 8. Recursos geológicos](Tema8/Tema8.html)
