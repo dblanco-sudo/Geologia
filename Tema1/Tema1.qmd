@@ -109,7 +109,7 @@ En un mapa geológico también encontraremos esquemas tectónicos y regionales, 
 
 ::: {style="text-align:center;"}
 <figcaption class="figure-caption">
-  Esquemas regional y tectónico incluidos en un mapa de la serie MAGNA.
+  Esquemas regional y tectónico incluidos en un mapa de la serie MAGNA
 </figcaption>
 :::
 
@@ -154,7 +154,7 @@ Las rocas sedimentarias se depositan en capas (o estratos), donde la capa más v
 
 **¿Para qué sirve?** Una fotografía aérea nos da una imagen general del territorio desde un punto de vista elevado con una perspectiva amplia. Con una imagen aérea podemos observar un territorio desde arriba y ver cómo está organizado; ver ríos, montañas, cultivos, bosques o costas, estudiar cambios en el paisaje, analizar el uso del suelo, planificar obras, rutas o actuaciones en el territorio, etc.
 
-La primera fotografía área fue tomada por encima del pueblo de Petit-Bicerre (Francia) por Felix Tournachon (Nadar) en 1858 desde un globo, pero esta no se conserva. La más antigua conservada data de 1860, de la ciudad de Boston.
+La primera fotografía aérea fue tomada por encima del pueblo de Petit-Bicerre (Francia) por Felix Tournachon (Nadar) en 1858 desde un globo, pero esta no se conserva. La más antigua conservada data de 1860, de la ciudad de Boston.
 
 ::: {style="text-align:center;"}
 
@@ -179,7 +179,7 @@ La fotografía área tuvo una gran evolución durante la Primera y la Segunda Gu
 
 Al terminar la Primera Guerra Mundial en 1918, cientos de pilotos, aviones y cámaras avanzadas quedaron disponibles para el sector civil. En 1919 comenzó la creación de empresas comerciales dedicadas a mapas a gran escala para empresas y gobiernos. Durante los años 20 y 30, empresarios como Sherman Fairchild en EE. UU. perfeccionaron cámaras de alta velocidad para estudios de erosión del suelo, agricultura, arqueología y urbanismo.
 
-Estas imágenes áreas tuvieron un gran impacto en geología, pues proporcionaron un tipo de datos que aportaba mucha información. De hecho, gran parte de la cartografía actual de España se realizó mediante fotografías áreas tomadas en los años 50, con la técnica conocida como "Vuelo Americano" o Serie B. Este vuelo fue el primer levantamiento cartográfico fotográfico, completo, sistemático y preciso de todo el territorio español.
+Estas imágenes aéreas tuvieron un gran impacto en geología, pues proporcionaron un tipo de datos que aportaba mucha información. De hecho, gran parte de la cartografía actual de España se realizó mediante fotografías áreas tomadas en los años 50, con la técnica conocida como "Vuelo Americano" o Serie B. Este vuelo fue el primer levantamiento cartográfico fotográfico, completo, sistemático y preciso de todo el territorio español.
 
 Realizado entre marzo de 1956 y septiembre de 1957, nació gracias a un acuerdo de cooperación bilateral entre el gobierno español y el gobierno de los Estados Unidos a través de su agencia cartográfica militar, el Army Map Service (AMS).
 
@@ -197,7 +197,7 @@ Las imágenes de satélite, junto con la fotografía área, constituyen otra de 
 
 **¿Para qué sirve?** Una imagen de satélite nos proporciona una imagen global y sinóptica de la superficie terrestre. Como el satélite está en órbita, tiene la capacidad de adquirir imágenes de la misma zona con una determinada frecuencia temporal, lo que convierte este tipo de imágenes en datos muy valiosos para estudios temporales.
 
-El primer satélite en adquirir imágenes del territorio de forma sistemática fue el LandSat 1, operativo desde 1972. Este programa sigue activo hoy en día con los satélites Landsat 8 y 9. Actualmente, en torno a medio millar de satélites ópticos de observación terrestre están en órbita y operativos, aunque la cifra exacta cambia constantemente. Si se cuentan los lanzados históricamente, el número supera el millar. La agencia espacial europea (ESA), tiene en órbita la serie de satélites Sentinel, con una resolución espectral y temporal bastante buena. Actualmente el satélite de mayor resolución espacial puede tomar imágenes de cualquier parte de la tierra con una precisión de 30 cm.
+El primer satélite en adquirir imágenes del territorio de forma sistemática fue el LandSat 1, operativo desde 1972. Este programa sigue activo hoy en día con los satélites Landsat 8 y 9. Actualmente, en torno a medio millar de satélites ópticos de observación terrestre están en órbita y operativos, aunque la cifra exacta cambia constantemente. Si se cuentan los lanzados históricamente, el número supera el millar. La agencia espacial europea (ESA) tiene en órbita la serie de satélites Sentinel, con una resolución espectral y temporal bastante buena. Actualmente el satélite de mayor resolución espacial puede tomar imágenes de cualquier parte de la Tierra con una precisión de 30 cm.
 
 ::: {style="text-align:center;"}
 ![Imagen LandSat del desierto de Namibia (13 de noviembre de 2019)](media/image17.png){width="9in"}
@@ -225,9 +225,9 @@ Los informes técnicos suelen elaborarse para obras civiles, explotaciones miner
 
 Por tanto, los textos, memorias e informes constituyen una base documental esencial, ya que permiten comparar datos nuevos con estudios anteriores, detectar cambios en la interpretación geológica de una región y planificar mejor el trabajo de campo y laboratorio.
 
-## 2. Métodos de estudio en Geología
+# 2. Métodos de estudio en Geología
 
-### 2.1. El trabajo de campo
+## 2.1. El trabajo de campo
 
 El trabajo de campo es la esencia de la Geología y las Ciencias Ambientales. Aquí recolectamos los datos brutos directamente de la naturaleza utilizando herramientas clásicas.
 
@@ -239,7 +239,7 @@ El trabajo de campo es la esencia de la Geología y las Ciencias Ambientales. Aq
 
 - **La lupa de mano:** Es el \"microscopio del campo\". Esencial para identificar minerales a simple vista o texturas en la roca.
 
-- **Cinta métrica:** esencial para medir el espesor de los estratos, afloramientos, tamaños de minerales, estructuras o fósiles.
+- **Cinta métrica:** Esencial para medir el espesor de los estratos, afloramientos, tamaños de minerales, estructuras o fósiles.
 
 ::: {style="text-align:center;"}
 ![Herramientas geológicas clásicas](media/image19.png){width="5.908333333333333in" height="3.216666666666667in"}
@@ -257,7 +257,7 @@ El trabajo de campo es la esencia de la Geología y las Ciencias Ambientales. Aq
 :::
 
 
-### 2.2. El laboratorio
+## 2.2. El laboratorio
 
 Una vez recogidas las muestras, volvemos al laboratorio para analizar lo que el ojo humano no puede ver a simple vista.
 
@@ -273,35 +273,35 @@ Una vez recogidas las muestras, volvemos al laboratorio para analizar lo que el 
 
 #### *Análisis ambiental*
 
-- **Analizador elemental:** instrumento de laboratorio automatizado que se utiliza para determinar la composición química (por ejemplo, en carbono, hidrógeno, nitrógeno y azufre) cuantitativa de una muestra geológica.
+- **Analizador elemental:** Instrumento de laboratorio automatizado que se utiliza para determinar la composición química (por ejemplo, en carbono, hidrógeno, nitrógeno y azufre) cuantitativa de una muestra geológica.
 
-- **Escáner de fluorescencia de rayos X:** sirve para determinar la composición elemental (química) de una muestra de roca, suelo o sedimento de forma casi instantánea, y en muchos casos, sin destruir la muestra. Es muy utilizado en minería y exploración minera para saber si hay algunos elementos químicos deseables y también en el estudio de contaminación de suelos.
+- **Escáner de fluorescencia de rayos X:** Sirve para determinar la composición elemental (química) de una muestra de roca, suelo o sedimento de forma casi instantánea, y en muchos casos, sin destruir la muestra. Es muy utilizado en minería y exploración minera para saber si hay algunos elementos químicos deseables y también en el estudio de contaminación de suelos.
 
 - **Espectrofotómetros:** Instrumentos que miden cuánta luz absorbe una muestra de agua química tratada. Sirve para detectar concentraciones exactas de contaminantes como nitratos, fosfatos o metales pesados.
 
 - **Estufas de secado y balanzas de precisión:** Fundamentales para calcular la humedad del suelo o la cantidad de materia orgánica mediante la pérdida de peso por quema (calcinación).
 
-### 2.3. Las nuevas tecnologías
+## 2.3. Las nuevas tecnologías
 
 Hoy en día, la Geología y las Ciencias Ambientales son disciplinas hipertecnológicas. Ya no solo se mira al suelo, se mira desde el espacio y con algoritmos.
 
-- **GPS Diferencial**: No es como el del móvil (que falla por metros). Estos equipos tienen precisión de milímetros. Se usan para medir cómo se mueve una falla sísmica o si un volcán se está \"inflando\" antes de una erupción.
+- **GPS Diferencial:** No es como el del móvil (que falla por metros). Estos equipos tienen precisión de milímetros. Se usan para medir cómo se mueve una falla sísmica o si un volcán se está \"inflando\" antes de una erupción.
 
 - **Software GIS (como QGIS o ArcGIS):** El \"Photoshop\" de los mapas. Permite superponer capas de datos: mapas de rocas, pendientes del terreno, zonas inundables y densidad de población para predecir riesgos naturales (como desprendimientos o inundaciones).
 
-## 3. Métodos y principios para el estudio del registro geológico
+# 3. Métodos y principios para el estudio del registro geológico
 
 ¿Cómo sabemos que los dinosaurios vivieron antes que los mamuts? ¿Cómo puede un geólogo mirar una montaña cortada por una carretera y saber que un río pasó por ahí hace millones de años? Para descifrar el pasado, la Geología combina dos métodos de datación y se apoya en una serie de principios fundamentales.
 
-### 3.1. Métodos para medir el tiempo
+## 3.1. Métodos para medir el tiempo
 
 Antes de aplicar las leyes, los científicos necesitan saber cómo van a medir el tiempo en las rocas:
 
 - **Datación relativa:** no nos dice la edad exacta en números de años, pero nos permite ordenar los acontecimientos cronológicamente gracias a los fósiles (saber qué ocurrió antes y qué ocurrió después).
 
-- **Datación absoluta:** nos da una fecha numérica precisa (por ejemplo: \"esta roca tiene 125 ± 2 millones de años\"). Se consigue en el laboratorio utilizando la radiocronología (midiendo la descomposición de isótopos radiactivos inestables como el carbono-14 o los isótopos de uranio y plomo en los minerales).
+- **Datación absoluta:** nos da una fecha numérica precisa (por ejemplo: \"esta roca tiene 125 ± 2 millones de años\"). Se consigue en el laboratorio utilizando la radiocronología (midiendo la descomposición de isótopos radiactivos inestables como el carbono-14, o los isótopos de uranio y plomo en los minerales).
 
-### 3.2. Los principios geológicos fundamentales
+## 3.2. Los principios geológicos fundamentales
 
 Para realizar la datación relativa y reconstruir la historia de una zona, aplicamos seis principios lógicos básicos:
 
@@ -339,6 +339,7 @@ Para realizar la datación relativa y reconstruir la historia de una zona, aplic
 1. *Principio de sucesión faunística (o de los fósiles)*
 
    - **La regla:** los organismos fósiles se suceden unos a otros en el registro geológico en un orden definido y determinable. Cada época de la historia de la Tierra tiene sus propios fósiles característicos (fósiles guía).
+
    - **Aplicación:** si encontramos un trilobite en una roca de España y otro en una de América, sabemos que ambas rocas se formaron en la misma época (el Paleozoico), aunque estén en continentes distintos.
    
    ::: {style="text-align:center;"}
@@ -356,7 +357,7 @@ Para realizar la datación relativa y reconstruir la historia de una zona, aplic
     
    ::: {style="text-align:center;"}
     
-   ![Principio de corte mostrando la relación temporal de varios procesos.](media/image25.jpeg){width="6.5in"}
+   ![Principio de corte mostrando la relación temporal de varios procesos](media/image25.jpeg){width="6.5in"}
     
    :::
 
