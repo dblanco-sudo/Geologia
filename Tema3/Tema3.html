@@ -1,0 +1,806 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="es" xml:lang="es"><head>
+
+<meta charset="utf-8">
+<meta name="generator" content="quarto-1.8.27">
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+
+
+<title>Tema 3. Procesos geológicos internos</title>
+<style>
+code{white-space: pre-wrap;}
+span.smallcaps{font-variant: small-caps;}
+div.columns{display: flex; gap: min(4vw, 1.5em);}
+div.column{flex: auto; overflow-x: auto;}
+div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+ul.task-list{list-style: none;}
+ul.task-list li input[type="checkbox"] {
+  width: 0.8em;
+  margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
+  vertical-align: middle;
+}
+</style>
+
+
+<script src="Tema3_files/libs/clipboard/clipboard.min.js"></script>
+<script src="Tema3_files/libs/quarto-html/quarto.js" type="module"></script>
+<script src="Tema3_files/libs/quarto-html/tabsets/tabsets.js" type="module"></script>
+<script src="Tema3_files/libs/quarto-html/axe/axe-check.js" type="module"></script>
+<script src="Tema3_files/libs/quarto-html/popper.min.js"></script>
+<script src="Tema3_files/libs/quarto-html/tippy.umd.min.js"></script>
+<script src="Tema3_files/libs/quarto-html/anchor.min.js"></script>
+<link href="Tema3_files/libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="Tema3_files/libs/quarto-html/quarto-syntax-highlighting-ed96de9b727972fe78a7b5d16c58bf87.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="Tema3_files/libs/bootstrap/bootstrap.min.js"></script>
+<link href="Tema3_files/libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="Tema3_files/libs/bootstrap/bootstrap-d6a003b94517c951b2d65075d42fb01b.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+
+
+</head>
+
+<body class="quarto-light">
+
+<header id="title-block-header" class="quarto-title-block default page-columns page-full">
+  <div class="quarto-title-banner page-columns page-full">
+    <div class="quarto-title column-page-left">
+      <h1 class="title">Tema 3. Procesos geológicos internos</h1>
+                      </div>
+  </div>
+    
+  
+  <div class="quarto-title-meta column-page-left">
+
+      
+    
+      
+    </div>
+    
+  
+  </header><div id="quarto-content" class="page-columns page-rows-contents page-layout-full">
+<div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+  <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">Tabla de contenidos</h2>
+   
+  <ul>
+  <li><a href="#introducción" id="toc-introducción" class="nav-link active" data-scroll-target="#introducción">1. Introducción</a></li>
+  <li><a href="#origen-de-la-energía-interna-terrestre" id="toc-origen-de-la-energía-interna-terrestre" class="nav-link" data-scroll-target="#origen-de-la-energía-interna-terrestre">2. Origen de la energía interna terrestre</a>
+  <ul class="collapse">
+  <li><a href="#la-formación-de-la-tierra" id="toc-la-formación-de-la-tierra" class="nav-link" data-scroll-target="#la-formación-de-la-tierra">2.1. La formación de la Tierra</a></li>
+  <li><a href="#fuentes-actuales-de-calor-interno" id="toc-fuentes-actuales-de-calor-interno" class="nav-link" data-scroll-target="#fuentes-actuales-de-calor-interno">2.2. Fuentes actuales de calor interno</a></li>
+  <li><a href="#el-gradiente-geotérmico" id="toc-el-gradiente-geotérmico" class="nav-link" data-scroll-target="#el-gradiente-geotérmico">2.3. El gradiente geotérmico</a></li>
+  </ul></li>
+  <li><a href="#deformación-de-la-litosfera" id="toc-deformación-de-la-litosfera" class="nav-link" data-scroll-target="#deformación-de-la-litosfera">3. Deformación de la litosfera</a>
+  <ul class="collapse">
+  <li><a href="#tipos-de-esfuerzos" id="toc-tipos-de-esfuerzos" class="nav-link" data-scroll-target="#tipos-de-esfuerzos">3.1. Tipos de esfuerzos</a></li>
+  </ul></li>
+  <li><a href="#pliegues" id="toc-pliegues" class="nav-link" data-scroll-target="#pliegues">4. Pliegues</a>
+  <ul class="collapse">
+  <li><a href="#elementos-de-un-pliegue" id="toc-elementos-de-un-pliegue" class="nav-link" data-scroll-target="#elementos-de-un-pliegue">4.1. Elementos de un pliegue</a></li>
+  <li><a href="#tipos-de-pliegues" id="toc-tipos-de-pliegues" class="nav-link" data-scroll-target="#tipos-de-pliegues">4.2. Tipos de pliegues</a></li>
+  </ul></li>
+  <li><a href="#fallas" id="toc-fallas" class="nav-link" data-scroll-target="#fallas">5. Fallas</a>
+  <ul class="collapse">
+  <li><a href="#elementos-de-una-falla" id="toc-elementos-de-una-falla" class="nav-link" data-scroll-target="#elementos-de-una-falla">5.1. Elementos de una falla</a></li>
+  <li><a href="#tipos-principales-de-fallas" id="toc-tipos-principales-de-fallas" class="nav-link" data-scroll-target="#tipos-principales-de-fallas">5.2. Tipos principales de fallas</a></li>
+  </ul></li>
+  <li><a href="#terremotos" id="toc-terremotos" class="nav-link" data-scroll-target="#terremotos">6. Terremotos</a>
+  <ul class="collapse">
+  <li><a href="#teoría-del-rebote-elástico" id="toc-teoría-del-rebote-elástico" class="nav-link" data-scroll-target="#teoría-del-rebote-elástico">6.1. Teoría del rebote elástico</a></li>
+  <li><a href="#hipocentro-y-epicentro" id="toc-hipocentro-y-epicentro" class="nav-link" data-scroll-target="#hipocentro-y-epicentro">6.2. Hipocentro y epicentro</a></li>
+  <li><a href="#ondas-sísmicas" id="toc-ondas-sísmicas" class="nav-link" data-scroll-target="#ondas-sísmicas">6.3. Ondas sísmicas</a></li>
+  <li><a href="#magnitud-e-intensidad" id="toc-magnitud-e-intensidad" class="nav-link" data-scroll-target="#magnitud-e-intensidad">6.4. Magnitud e intensidad</a></li>
+  <li><a href="#distribución-mundial" id="toc-distribución-mundial" class="nav-link" data-scroll-target="#distribución-mundial">6.5. Distribución mundial</a></li>
+  <li><a href="#riesgos-sísmicos" id="toc-riesgos-sísmicos" class="nav-link" data-scroll-target="#riesgos-sísmicos">6.6. Riesgos sísmicos</a></li>
+  </ul></li>
+  <li><a href="#vulcanismo" id="toc-vulcanismo" class="nav-link" data-scroll-target="#vulcanismo">7. Vulcanismo</a>
+  <ul class="collapse">
+  <li><a href="#origen-del-magma" id="toc-origen-del-magma" class="nav-link" data-scroll-target="#origen-del-magma">7.1. Origen del magma</a></li>
+  <li><a href="#tipos-de-magma" id="toc-tipos-de-magma" class="nav-link" data-scroll-target="#tipos-de-magma">7.2. Tipos de magma</a></li>
+  <li><a href="#productos-volcánicos" id="toc-productos-volcánicos" class="nav-link" data-scroll-target="#productos-volcánicos">7.3. Productos volcánicos</a></li>
+  <li><a href="#tipos-de-erupciones" id="toc-tipos-de-erupciones" class="nav-link" data-scroll-target="#tipos-de-erupciones">7.4. Tipos de erupciones</a></li>
+  <li><a href="#relación-con-la-tectónica-de-placas" id="toc-relación-con-la-tectónica-de-placas" class="nav-link" data-scroll-target="#relación-con-la-tectónica-de-placas">7.5. Relación con la tectónica de placas</a></li>
+  </ul></li>
+  <li><a href="#riesgos-geológicos-asociados" id="toc-riesgos-geológicos-asociados" class="nav-link" data-scroll-target="#riesgos-geológicos-asociados">8. Riesgos geológicos asociados</a>
+  <ul class="collapse">
+  <li><a href="#riesgo-sísmico" id="toc-riesgo-sísmico" class="nav-link" data-scroll-target="#riesgo-sísmico">8.1. Riesgo sísmico</a></li>
+  <li><a href="#tsunamis" id="toc-tsunamis" class="nav-link" data-scroll-target="#tsunamis">8.3. Tsunamis</a></li>
+  <li><a href="#movimientos-de-ladera" id="toc-movimientos-de-ladera" class="nav-link" data-scroll-target="#movimientos-de-ladera">8.4. Movimientos de ladera</a></li>
+  <li><a href="#prevención-y-monitorización" id="toc-prevención-y-monitorización" class="nav-link" data-scroll-target="#prevención-y-monitorización">8.5. Prevención y monitorización</a></li>
+  </ul></li>
+  <li><a href="#aplicaciones-del-estudio-de-la-dinámica-interna" id="toc-aplicaciones-del-estudio-de-la-dinámica-interna" class="nav-link" data-scroll-target="#aplicaciones-del-estudio-de-la-dinámica-interna">9. Aplicaciones del estudio de la dinámica interna</a></li>
+  </ul>
+</nav>
+</div>
+<main class="content quarto-banner-title-block column-page-left" id="quarto-document-content">
+
+
+
+
+
+<section id="introducción" class="level1">
+<h1>1. Introducción</h1>
+<p>La Tierra es un planeta dinámico. Aunque desde nuestra escala humana pueda parecer sólida, estable e inmóvil, en realidad está sometida a cambios continuos. Algunos de estos cambios son rápidos y visibles, como una erupción volcánica, un terremoto o un deslizamiento de ladera. Otros son extremadamente lentos y solo pueden comprenderse a escala geológica, como la formación de cordilleras, la apertura de océanos o el desplazamiento de los continentes.</p>
+<p>La dinámica terrestre depende de dos grandes fuentes de energía. Por un lado, la energía externa procede principalmente del Sol. Esta energía actúa sobre la atmósfera, la hidrosfera y la superficie terrestre, y es responsable de procesos como la meteorización, la erosión, el transporte y la sedimentación. Por otro lado, la energía interna procede del calor acumulado en el interior del planeta. Esta energía mueve lentamente los materiales del manto, provoca la deformación de la litosfera, genera magmas, origina terremotos y participa en la formación de grandes relieves.</p>
+<p>Los procesos geológicos internos son fundamentales porque explican la estructura profunda de la Tierra y la evolución de su superficie. Gracias a ellos se forman montañas, se destruye y se crea corteza oceánica, aparecen volcanes, se producen terremotos y se concentran muchos recursos minerales. Estos procesos también tienen una gran importancia social, ya que pueden generar riesgos naturales que afectan a la población, a las infraestructuras y a la ordenación del territorio.</p>
+<p>La teoría que permite interpretar la mayoría de estos fenómenos es la tectónica de placas. Según esta teoría, la litosfera está fragmentada en placas rígidas que se desplazan sobre la astenosfera, una zona del manto superior con comportamiento más plástico. Las placas pueden separarse, chocar o deslizarse lateralmente entre sí. En sus límites se concentra la mayor parte de la actividad sísmica, volcánica y orogénica del planeta.</p>
+</section>
+<section id="origen-de-la-energía-interna-terrestre" class="level1">
+<h1>2. Origen de la energía interna terrestre</h1>
+<section id="la-formación-de-la-tierra" class="level2">
+<h2 class="anchored" data-anchor-id="la-formación-de-la-tierra">2.1. La formación de la Tierra</h2>
+<p>La Tierra se formó hace unos 4.500 millones de años a partir de una nube de gas y polvo que rodeaba al Sol primitivo. En esa nube, las partículas sólidas comenzaron a atraerse por gravedad y fueron formando cuerpos cada vez mayores. Este proceso se conoce como acreción planetaria. Primero se unieron pequeños fragmentos, después planetesimales y finalmente cuerpos de tamaño planetario.</p>
+<p>Durante la acreción, la Tierra recibió numerosos impactos meteoríticos. Cada choque liberaba una enorme cantidad de energía en forma de calor. A esto se sumaba la presión creciente producida por la acumulación de materiales. Como consecuencia, la Tierra primitiva alcanzó temperaturas muy elevadas y parte de sus materiales llegaron a fundirse.</p>
+<p>En ese estado parcialmente fundido se produjo la diferenciación gravitacional. Los materiales más densos, ricos en hierro y níquel, descendieron hacia el centro del planeta y formaron el núcleo. Los materiales menos densos quedaron en zonas más externas y dieron lugar al manto y la corteza. Este proceso también liberó calor, porque el desplazamiento de los materiales densos hacia el interior transformó energía gravitatoria en energía térmica.</p>
+</section>
+<section id="fuentes-actuales-de-calor-interno" class="level2">
+<h2 class="anchored" data-anchor-id="fuentes-actuales-de-calor-interno">2.2. Fuentes actuales de calor interno</h2>
+<p>Aunque gran parte del calor terrestre procede de la formación del planeta, la Tierra sigue generando y conservando calor en la actualidad. Una fuente muy importante es la desintegración radiactiva de elementos como el uranio, el torio y el potasio. Estos elementos se encuentran en pequeñas cantidades en las rocas, especialmente en la corteza y el manto, y al desintegrarse liberan energía térmica.</p>
+<p>Otra fuente es el calor residual de formación. La Tierra aún conserva parte del calor generado durante la acreción, los impactos meteoríticos y la diferenciación interna. Este calor se pierde lentamente hacia el espacio, pero el proceso es muy lento debido al gran tamaño del planeta y al carácter aislante de las rocas.</p>
+<p>También contribuye la cristalización del núcleo interno. El núcleo externo es líquido, mientras que el núcleo interno es sólido. A medida que parte del hierro líquido del núcleo externo se solidifica y se incorpora al núcleo interno, se libera calor latente. Este proceso, además, participa en la generación del campo magnético terrestre.</p>
+</section>
+<section id="el-gradiente-geotérmico" class="level2">
+<h2 class="anchored" data-anchor-id="el-gradiente-geotérmico">2.3. El gradiente geotérmico</h2>
+<p>El gradiente geotérmico es el aumento de la temperatura con la profundidad. En la corteza terrestre superficial, como valor medio aproximado, la temperatura suele aumentar unos 25-30 ºC por kilómetro, aunque este valor cambia mucho según la zona.</p>
+<p>En áreas tectónicamente estables, alejadas de volcanes y límites de placas, el gradiente suele ser menor. En cambio, en zonas volcánicas, dorsales oceánicas, regiones con corteza adelgazada o áreas con circulación de fluidos calientes, el gradiente puede ser mucho mayor. Por eso en algunos lugares existen fuentes termales, géiseres o posibilidades de aprovechamiento geotérmico.</p>
+<p>El gradiente geotérmico demuestra que el interior terrestre conserva energía. Esa energía no permanece inmóvil: se transfiere hacia el exterior mediante conducción, convección y procesos magmáticos. La convección del manto, aunque lenta, es uno de los motores fundamentales de la tectónica de placas.</p>
+</section>
+</section>
+<section id="deformación-de-la-litosfera" class="level1">
+<h1>3. Deformación de la litosfera</h1>
+<p>La litosfera está formada por rocas rígidas, aunque eso no significa que sea indeformable. Cuando las rocas están sometidas a fuerzas durante suficiente tiempo, pueden doblarse, fracturarse o desplazarse. La deformación de la litosfera explica la formación de pliegues, fallas, cordilleras, cuencas sedimentarias y muchos relieves geológicos.</p>
+<p>Para entender estos procesos hay que diferenciar dos conceptos. El esfuerzo es la fuerza que actúa sobre una roca por unidad de superficie. La deformación es el cambio que experimenta esa roca como respuesta al esfuerzo. Según la intensidad del esfuerzo, la presión, la temperatura, la profundidad, el tiempo de actuación y el tipo de roca, la respuesta puede ser muy diferente.</p>
+<section id="tipos-de-esfuerzos" class="level2">
+<h2 class="anchored" data-anchor-id="tipos-de-esfuerzos">3.1. Tipos de esfuerzos</h2>
+<p><strong>Compresión</strong></p>
+<p>La compresión aparece cuando las fuerzas empujan los materiales unos contra otros. Este tipo de esfuerzo acorta y engrosa la corteza. Es característico de los límites convergentes, donde chocan placas tectónicas. La compresión favorece la formación de pliegues, fallas inversas, cabalgamientos y cordilleras.</p>
+<p><strong>Tensión</strong></p>
+<p>La tensión se produce cuando las fuerzas tienden a separar los materiales. En este caso, la corteza se estira y adelgaza. Es propia de zonas de rift continental y dorsales oceánicas. La distensión genera fallas normales y puede iniciar la apertura de nuevos océanos.</p>
+<p><strong>Cizalla</strong></p>
+<p>La cizalla aparece cuando dos bloques de roca se desplazan lateralmente en sentidos opuestos o a diferente velocidad. Es típica de los límites transformantes, donde las placas no se crean ni se destruyen, sino que se deslizan una junto a otra. Este esfuerzo produce fallas de desgarre o fallas transformantes.</p>
+<div style="text-align:center;">
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="media/image1.jpeg" class="img-fluid figure-img" style="width:6.7in"></p>
+<figcaption>Tipos de esfuerzos</figcaption>
+</figure>
+</div>
+</div>
+</section>
+</section>
+<section id="pliegues" class="level1">
+<h1>4. Pliegues</h1>
+<p>Los pliegues son deformaciones onduladas de las rocas. Se forman cuando los estratos, originalmente más o menos horizontales, son sometidos a esfuerzos compresivos y se doblan sin llegar a romperse. Para que se formen pliegues, las rocas deben comportarse de manera plástica o dúctil. Esto suele ocurrir cuando están enterradas a cierta profundidad o cuando la deformación actúa lentamente durante largos periodos.</p>
+<p>Los pliegues son muy frecuentes en cordilleras, porque estas se originan por compresión. Cuando dos placas convergen, los materiales sedimentarios acumulados en antiguos mares pueden comprimirse, elevarse y deformarse, formando grandes sistemas de pliegues.</p>
+<section id="elementos-de-un-pliegue" class="level2">
+<h2 class="anchored" data-anchor-id="elementos-de-un-pliegue">4.1. Elementos de un pliegue</h2>
+<p>La charnela es la zona de máxima curvatura del pliegue. Es el punto o línea donde los estratos cambian de inclinación de manera más marcada.</p>
+<p>Los flancos son los lados del pliegue. En ellos los estratos aparecen inclinados en una dirección u otra. La inclinación de los flancos permite interpretar la intensidad y el sentido de la deformación.</p>
+<p>El plano axial es un plano imaginario que divide el pliegue en dos partes. Si el pliegue es simétrico, el plano axial queda aproximadamente en el centro. Si el pliegue está inclinado o tumbado, el plano axial también aparece inclinado.</p>
+<div style="text-align:center;">
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="media/image2.png" class="img-fluid figure-img" style="width:6.2in"></p>
+<figcaption>Elementos principales de un pliegue</figcaption>
+</figure>
+</div>
+</div>
+</section>
+<section id="tipos-de-pliegues" class="level2">
+<h2 class="anchored" data-anchor-id="tipos-de-pliegues">4.2. Tipos de pliegues</h2>
+<p>Los anticlinales son pliegues convexos hacia arriba. En ellos, los materiales más antiguos suelen encontrarse en el núcleo, siempre que la serie estratigráfica conserve su posición normal. Su forma recuerda a un arco.</p>
+<p>Los sinclinales son pliegues cóncavos hacia arriba. En ellos, los materiales más modernos suelen ocupar el núcleo. Su forma recuerda a una cubeta.</p>
+<p>Según la posición del plano axial podemos tener pliegues rectos (plano axial a 90 grados), inclinados (plano axial entre 85 y 10º), tumbados (plano axial buza menos de 10º) o invertidos (plano axial ha girado más de 90º con respecto a la posición vertical).</p>
+<p>Si el plano axial divide al pliegue en dos mitades simétricas tenemos un pliegue simétrico, si lo hace en dos mitades diferentes, tenemos un pliegue asimétrico.</p>
+<div style="text-align:center;">
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="media/image3.jpeg" class="img-fluid figure-img" style="width:6.2in"></p>
+<figcaption>Tipos principales de pliegues</figcaption>
+</figure>
+</div>
+</div>
+</section>
+</section>
+<section id="fallas" class="level1">
+<h1>5. Fallas</h1>
+<p>Las fallas son fracturas de las rocas en las que se ha producido desplazamiento relativo entre dos bloques. A diferencia de una simple diaclasa o grieta, en una falla los bloques situados a ambos lados de la fractura se han movido. Las fallas se forman cuando las rocas responden de manera frágil ante los esfuerzos tectónicos.</p>
+<p>Las fallas son estructuras fundamentales para comprender la dinámica interna de la Tierra, porque muchas de ellas son zonas de debilidad por las que se libera energía acumulada. Cuando una falla se desplaza bruscamente, puede producirse un terremoto.</p>
+<section id="elementos-de-una-falla" class="level2">
+<h2 class="anchored" data-anchor-id="elementos-de-una-falla">5.1. Elementos de una falla</h2>
+<p>El plano de falla es la superficie de fractura por la que se desplazan los bloques. Puede ser vertical, inclinado o casi horizontal.</p>
+<p>El bloque superior, también llamado bloque de techo, es el bloque situado por encima del plano de falla cuando este está inclinado. El bloque inferior o bloque de muro es el que queda por debajo.</p>
+<p>El salto de falla es la distancia relativa por la que se han desplazado los bloques. Puede ser de pocos centímetros o alcanzar varios kilómetros en grandes estructuras tectónicas.</p>
+<div style="text-align:center;">
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="media/image4.jpeg" class="img-fluid figure-img" style="width:3.9in"></p>
+<figcaption>Elementos principales de una falla</figcaption>
+</figure>
+</div>
+</div>
+</section>
+<section id="tipos-principales-de-fallas" class="level2">
+<h2 class="anchored" data-anchor-id="tipos-principales-de-fallas">5.2. Tipos principales de fallas</h2>
+<p>La falla normal se produce por esfuerzos distensivos. En ella, el bloque de techo desciende respecto al bloque de muro. Este tipo de falla aparece en zonas donde la corteza se estira, como los rifts continentales o las dorsales oceánicas.</p>
+<p>La falla inversa se forma por compresión. En ella, el bloque de techo asciende respecto al bloque de muro. Es típica de zonas de convergencia entre placas.</p>
+<p>El cabalgamiento es una falla inversa de bajo ángulo. En este caso, un conjunto de rocas se desplaza sobre otro a lo largo de una superficie poco inclinada. Los cabalgamientos son muy importantes en la formación de cordilleras, porque permiten acortar y engrosar grandes sectores de corteza.</p>
+<p>La falla transformante o de desgarre se produce por esfuerzos de cizalla. Los bloques se desplazan lateralmente, sin que predomine el movimiento vertical. Son características de límites transformantes de placas.</p>
+<div style="text-align:center;">
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="media/image5.png" class="img-fluid figure-img" style="width:6.2in"></p>
+<figcaption>Tipos de fallas</figcaption>
+</figure>
+</div>
+</div>
+</section>
+</section>
+<section id="terremotos" class="level1">
+<h1>6. Terremotos</h1>
+<p>Un terremoto es una vibración brusca del terreno causada por la liberación repentina de energía acumulada en el interior de la Tierra. La mayoría se producen por el movimiento súbito de una falla. Durante años, décadas o siglos, las rocas situadas a ambos lados de una falla pueden acumular deformación elástica. Cuando la tensión supera la resistencia de la roca o el rozamiento que bloquea la falla, se produce la ruptura y los bloques se desplazan.</p>
+<section id="teoría-del-rebote-elástico" class="level2">
+<h2 class="anchored" data-anchor-id="teoría-del-rebote-elástico">6.1. Teoría del rebote elástico</h2>
+<p>La teoría del rebote elástico explica cómo se originan muchos terremotos tectónicos. Según esta teoría, las rocas se deforman lentamente mientras acumulan energía. Cuando se alcanza el límite de resistencia, la falla se rompe o se desplaza de forma repentina. Entonces las rocas recuperan parcialmente su forma anterior, liberando energía en forma de ondas sísmicas.</p>
+<p>Esta teoría permite entender por qué los terremotos no se distribuyen al azar. Se concentran en zonas donde las placas interactúan y las rocas acumulan esfuerzos: límites convergentes, divergentes y transformantes.</p>
+</section>
+<section id="hipocentro-y-epicentro" class="level2">
+<h2 class="anchored" data-anchor-id="hipocentro-y-epicentro">6.2. Hipocentro y epicentro</h2>
+<p>El hipocentro o foco sísmico es el punto del interior terrestre donde se inicia la ruptura. Puede situarse a poca profundidad o a varios cientos de kilómetros, especialmente en zonas de subducción.</p>
+<p>El epicentro es el punto de la superficie situado justo encima del hipocentro. Suele ser el área donde se percibe con más intensidad el terremoto, aunque los daños dependen también de la profundidad, la magnitud, el tipo de terreno, la distancia, la duración de la sacudida y la vulnerabilidad de las construcciones.</p>
+<div style="text-align:center;">
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="media/image6.jpeg" class="img-fluid figure-img" style="width:4.3in"></p>
+<figcaption>Epicentro e hipocentro de un terremoto</figcaption>
+</figure>
+</div>
+</div>
+</section>
+<section id="ondas-sísmicas" class="level2">
+<h2 class="anchored" data-anchor-id="ondas-sísmicas">6.3. Ondas sísmicas</h2>
+<p>Existen diferentes tipos de ondas sísmicas. Las ondas P son ondas primarias. Son las más rápidas y las primeras en llegar a los sismógrafos. Se transmiten por compresión y expansión del material, de forma parecida a una onda sonora. Pueden atravesar sólidos, líquidos y gases.</p>
+<p>Las ondas S son ondas secundarias. Son más lentas que las ondas P y deforman el material de manera transversal a la dirección de propagación. Solo se transmiten por materiales sólidos. El hecho de que no atraviesen líquidos permitió deducir que el núcleo externo terrestre es líquido.</p>
+<p>Las ondas superficiales se propagan por la superficie terrestre. Suelen llegar después que las ondas P y S, pero pueden ser las más destructivas, porque producen movimientos complejos del suelo y afectan directamente a edificios e infraestructuras.</p>
+<div style="text-align:center;">
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="media/image7.png" class="img-fluid figure-img" style="width:6in"></p>
+<figcaption>Tipos de ondas sísmicas</figcaption>
+</figure>
+</div>
+</div>
+</section>
+<section id="magnitud-e-intensidad" class="level2">
+<h2 class="anchored" data-anchor-id="magnitud-e-intensidad">6.4. Magnitud e intensidad</h2>
+<p>La magnitud mide la energía liberada por un terremoto. Es un valor instrumental y se calcula a partir de los registros sísmicos. La escala de magnitud de momento es la más utilizada para terremotos importantes.</p>
+<p>La intensidad mide los efectos observados en la superficie: daños en edificios, percepción por parte de la población, cambios en el terreno y otros impactos. Por eso un mismo terremoto tiene una sola magnitud, pero puede tener intensidades diferentes según la localidad.</p>
+</section>
+<section id="distribución-mundial" class="level2">
+<h2 class="anchored" data-anchor-id="distribución-mundial">6.5. Distribución mundial</h2>
+<p>Los terremotos se concentran principalmente en los límites de placas litosféricas. En las dorsales oceánicas suelen ser superficiales y de magnitud moderada. En las fallas transformantes son también superficiales, pero pueden ser muy destructivos si afectan a zonas pobladas. En las zonas de subducción pueden producirse terremotos muy grandes, desde superficiales hasta profundos, porque la placa oceánica desciende hacia el manto.</p>
+<p>El cinturón de fuego del Pacífico es la región con mayor actividad sísmica y volcánica del planeta. Incluye zonas como Japón, Indonesia, Chile, Alaska, México y la costa occidental de Norteamérica y Sudamérica.</p>
+</section>
+<section id="riesgos-sísmicos" class="level2">
+<h2 class="anchored" data-anchor-id="riesgos-sísmicos">6.6. Riesgos sísmicos</h2>
+<p>El riesgo sísmico depende de tres factores: peligrosidad, exposición y vulnerabilidad. La peligrosidad se refiere a la probabilidad de que ocurra un terremoto de cierta intensidad en una zona. La exposición indica cuántas personas, edificios e infraestructuras se encuentran en esa zona. La vulnerabilidad expresa el grado de daño que pueden sufrir esos elementos.</p>
+<p>Por eso un terremoto de magnitud moderada puede causar una catástrofe si afecta a una ciudad con edificios vulnerables, mientras que un terremoto mayor puede tener menos consecuencias si ocurre en una zona despoblada o bien preparada.</p>
+<div style="text-align:center;">
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="media/image8.jpeg" class="img-fluid figure-img" style="width:6.3in"></p>
+<figcaption>Daños en edificios causados por un terremoto</figcaption>
+</figure>
+</div>
+</div>
+</section>
+</section>
+<section id="vulcanismo" class="level1">
+<h1>7. Vulcanismo</h1>
+<p>El vulcanismo es el conjunto de procesos mediante los cuales el magma asciende desde el interior terrestre y llega a la superficie o queda cerca de ella. Cuando el magma alcanza la superficie se denomina lava. El vulcanismo es una manifestación directa de la energía interna terrestre.</p>
+<section id="origen-del-magma" class="level2">
+<h2 class="anchored" data-anchor-id="origen-del-magma">7.1. Origen del magma</h2>
+<p>El magma se forma por fusión parcial de rocas del manto o de la corteza. Esta fusión puede producirse por tres mecanismos principales. El primero es el aumento de temperatura, que puede fundir parcialmente las rocas. El segundo es la disminución de presión, típica de dorsales y rifts, donde el material del manto asciende y se funde al descomprimirse. El tercero es la incorporación de agua y otros volátiles, especialmente en zonas de subducción, donde estos fluidos reducen el punto de fusión de las rocas del manto.</p>
+<p>El magma contiene una mezcla de líquido fundido, cristales y gases disueltos. Su composición química condiciona su viscosidad, su temperatura, su contenido en gases y el tipo de erupción que puede producir.</p>
+</section>
+<section id="tipos-de-magma" class="level2">
+<h2 class="anchored" data-anchor-id="tipos-de-magma">7.2. Tipos de magma</h2>
+<p>El magma basáltico es pobre en sílice, caliente y poco viscoso. Fluye con facilidad y suele producir erupciones efusivas, con coladas de lava extensas. Es característico de dorsales oceánicas, puntos calientes y muchas islas volcánicas oceánicas.</p>
+<p>El magma andesítico tiene una composición intermedia y una viscosidad mayor. Suele aparecer en zonas de subducción. Puede generar erupciones mixtas, con emisión de lava y explosiones.</p>
+<p>El magma riolítico es rico en sílice, más viscoso y generalmente más explosivo. Al ser muy viscoso, dificulta la salida de gases. Cuando la presión aumenta demasiado, pueden producirse erupciones violentas con abundantes piroclastos.</p>
+</section>
+<section id="productos-volcánicos" class="level2">
+<h2 class="anchored" data-anchor-id="productos-volcánicos">7.3. Productos volcánicos</h2>
+<p>Las lavas son materiales fundidos que fluyen por la superficie. La forma de los flujos de lava depende de la composición, la temperatura, la pendiente y la velocidad de enfriamiento. Las lavas basálticas suelen ser más fluidas; las lavas ricas en sílice son más espesas y pueden formar domos.</p>
+<p>Los piroclastos son fragmentos sólidos expulsados durante una erupción explosiva. Según su tamaño se clasifican en cenizas, lapilli, bombas y bloques. Las cenizas pueden viajar largas distancias y afectar a la salud, la aviación, los cultivos y las infraestructuras.</p>
+<p>Los gases volcánicos incluyen vapor de agua, dióxido de carbono, dióxido de azufre y otros compuestos. Aunque muchas veces pasan desapercibidos, pueden ser peligrosos, especialmente en zonas deprimidas donde se acumulan gases densos.</p>
+<div style="text-align:center;">
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="media/image9.png" class="img-fluid figure-img" style="width:5in"></p>
+<figcaption>Tipos de productos volcánicos</figcaption>
+</figure>
+</div>
+</div>
+</section>
+<section id="tipos-de-erupciones" class="level2">
+<h2 class="anchored" data-anchor-id="tipos-de-erupciones">7.4. Tipos de erupciones</h2>
+<p>Las erupciones efusivas se caracterizan por la emisión tranquila de lava. Suelen estar asociadas a magmas basálticos poco viscosos. Aunque son menos explosivas, pueden destruir viviendas, carreteras y cultivos por avance de las coladas.</p>
+<p>Las erupciones explosivas se producen cuando el magma es viscoso y rico en gases. La presión aumenta hasta fragmentar el magma y expulsarlo violentamente. Estas erupciones pueden generar columnas eruptivas, caída de cenizas, flujos piroclásticos y lahares.</p>
+<p>Muchas erupciones combinan fases efusivas y explosivas. La peligrosidad depende del tipo de magma, la cantidad de gases, la interacción con agua, la topografía y la proximidad de la población.</p>
+<div style="text-align:center;">
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="media/image10.png" class="img-fluid figure-img" style="width:6.3in"></p>
+<figcaption>Tipos principales de erupciones volcánicas</figcaption>
+</figure>
+</div>
+</div>
+</section>
+<section id="relación-con-la-tectónica-de-placas" class="level2">
+<h2 class="anchored" data-anchor-id="relación-con-la-tectónica-de-placas">7.5. Relación con la tectónica de placas</h2>
+<p>El vulcanismo se concentra en tres contextos principales. En las dorsales oceánicas, el ascenso del manto por descompresión genera magma basáltico y crea nueva corteza oceánica. En las zonas de subducción, la placa que desciende libera agua y favorece la formación de magmas, muchas veces andesíticos. En los puntos calientes, columnas térmicas del manto originan volcanes en el medio de las placas, como ocurre en Hawái.</p>
+</section>
+</section>
+<section id="riesgos-geológicos-asociados" class="level1">
+<h1>8. Riesgos geológicos asociados</h1>
+<p>Los procesos internos son naturales, pero se convierten en riesgos cuando afectan a personas, bienes o actividades humanas. El riesgo geológico no depende solo de la peligrosidad del fenómeno, sino también de la exposición y la vulnerabilidad.</p>
+<section id="riesgo-sísmico" class="level2">
+<h2 class="anchored" data-anchor-id="riesgo-sísmico">8.1. Riesgo sísmico</h2>
+<p>El riesgo sísmico aparece en zonas donde pueden producirse terremotos capaces de causar daños. Para reducirlo es fundamental conocer la peligrosidad sísmica, aplicar normas de construcción sismorresistente, revisar edificios vulnerables, planificar emergencias y educar a la población.</p>
+<p>La predicción exacta de un terremoto, indicando día, hora y lugar, no es posible actualmente. Sin embargo, sí puede evaluarse la probabilidad de que una zona sufra terremotos en un periodo determinado. Esta información permite elaborar mapas de peligrosidad y mejorar la planificación territorial.</p>
+<p>8.2 Riesgo volcánico</p>
+<p>El riesgo volcánico depende del tipo de volcán, el estilo eruptivo, la frecuencia de actividad y la ocupación humana del territorio. Los peligros volcánicos incluyen coladas de lava, caída de cenizas, gases, flujos piroclásticos, lahares, deformaciones del terreno y sismicidad asociada.</p>
+<p>La vigilancia volcánica combina varias técnicas: registro de terremotos, medición de deformaciones, análisis de gases, observación térmica, imágenes de satélite y seguimiento visual. Aunque una erupción no siempre puede predecirse con precisión absoluta, la monitorización permite detectar señales de reactivación y tomar decisiones preventivas.</p>
+</section>
+<section id="tsunamis" class="level2">
+<h2 class="anchored" data-anchor-id="tsunamis">8.3. Tsunamis</h2>
+<p>Un tsunami es una serie de olas de gran longitud de onda generadas normalmente por un desplazamiento brusco del fondo marino. La causa más frecuente son terremotos submarinos asociados a fallas inversas en zonas de subducción, aunque también pueden originarse por deslizamientos submarinos o erupciones volcánicas.</p>
+<div style="text-align:center;">
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="media/image11.jpeg" class="img-fluid figure-img" style="width:5.3in"></p>
+<figcaption>Recreación de una ola gigante o tsunami</figcaption>
+</figure>
+</div>
+</div>
+<p>Los tsunamis son especialmente peligrosos porque pueden viajar a gran velocidad por el océano y afectar a costas muy alejadas del punto de origen. La prevención requiere sistemas de alerta temprana, educación ciudadana y planificación de las zonas costeras.</p>
+</section>
+<section id="movimientos-de-ladera" class="level2">
+<h2 class="anchored" data-anchor-id="movimientos-de-ladera">8.4. Movimientos de ladera</h2>
+<p>Los terremotos y las erupciones volcánicas pueden desencadenar movimientos de ladera. Una sacudida sísmica puede desestabilizar taludes y provocar desprendimientos, deslizamientos o avalanchas rocosas. La acumulación de cenizas volcánicas en pendientes también puede favorecer la formación de lahares cuando se mezcla con agua.</p>
+<p>Estos procesos son especialmente peligrosos en zonas montañosas, carreteras, valles estrechos y áreas urbanizadas sobre laderas inestables.</p>
+<div style="text-align:center;">
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="media/image12.jpeg" class="img-fluid figure-img" style="width:6.1in"></p>
+<figcaption>Deslizamiento de Las Colinas, en Santa Tecla (El Salvador)</figcaption>
+</figure>
+</div>
+</div>
+</section>
+<section id="prevención-y-monitorización" class="level2">
+<h2 class="anchored" data-anchor-id="prevención-y-monitorización">8.5. Prevención y monitorización</h2>
+<p>La prevención se basa en conocer el territorio. Los mapas geológicos, sísmicos, volcánicos y geomorfológicos permiten identificar zonas peligrosas. La monitorización permite seguir la evolución de procesos activos. La ordenación territorial evita ubicar viviendas, hospitales, colegios o infraestructuras críticas en áreas de alto riesgo.</p>
+<p>La gestión del riesgo requiere combinar ciencia, planificación y educación. Un fenómeno natural no siempre puede evitarse, pero sus consecuencias pueden reducirse mucho con preparación adecuada.</p>
+</section>
+</section>
+<section id="aplicaciones-del-estudio-de-la-dinámica-interna" class="level1">
+<h1>9. Aplicaciones del estudio de la dinámica interna</h1>
+<p>El estudio de la dinámica interna del planeta tiene numerosas aplicaciones prácticas.</p>
+<p>En la prospección de recursos minerales, permite comprender dónde se forman yacimientos. Muchos minerales metálicos se concentran en ambientes relacionados con magmatismo, hidrotermalismo, subducción o deformación tectónica. Conocer estos procesos ayuda a localizar recursos de forma más eficiente y responsable.</p>
+<p>En la explotación de energía geotérmica, el conocimiento del calor interno y de la circulación de fluidos permite aprovechar el subsuelo para producir electricidad, calefacción o climatización. Las zonas con alto gradiente geotérmico, actividad volcánica o aguas termales son especialmente interesantes.</p>
+<p>En la Ingeniería geológica, el estudio de fallas, fracturas, tipos de roca y estabilidad del terreno es esencial para construir túneles, presas, carreteras, edificios y otras infraestructuras. Ignorar la dinámica geológica puede aumentar el riesgo de daños, sobrecostes o accidentes.</p>
+<p>En la ordenación del territorio, la Geología ayuda a decidir dónde construir y qué zonas deben protegerse. No todas las áreas son igual de adecuadas para urbanizar. Algunas presentan riesgo sísmico, volcánico, inundable, de subsidencia o de movimientos de ladera. Incorporar la información geológica a la planificación reduce pérdidas futuras.</p>
+<p>Finalmente, el estudio de la dinámica interna es fundamental para la predicción y gestión de riesgos naturales. Aunque no siempre se pueda predecir exactamente cuándo ocurrirá un fenómeno, sí se pueden identificar zonas peligrosas, mejorar los sistemas de alerta, diseñar planes de emergencia y construir sociedades más preparadas.</p>
+<p>En conjunto, la dinámica interna terrestre muestra que la Tierra es un planeta activo. Sus procesos han construido continentes, océanos y cordilleras, han generado recursos esenciales y también han producido riesgos naturales. Comprenderlos es imprescindible para interpretar el paisaje, aprovechar los recursos de forma responsable y convivir mejor con un planeta que sigue cambiando.</p>
+</section>
+
+</main>
+<!-- /main column -->
+<script id="quarto-html-after-body" type="application/javascript">
+  window.document.addEventListener("DOMContentLoaded", function (event) {
+    const icon = "";
+    const anchorJS = new window.AnchorJS();
+    anchorJS.options = {
+      placement: 'right',
+      icon: icon
+    };
+    anchorJS.add('.anchored');
+    const isCodeAnnotation = (el) => {
+      for (const clz of el.classList) {
+        if (clz.startsWith('code-annotation-')) {                     
+          return true;
+        }
+      }
+      return false;
+    }
+    const onCopySuccess = function(e) {
+      // button target
+      const button = e.trigger;
+      // don't keep focus
+      button.blur();
+      // flash "checked"
+      button.classList.add('code-copy-button-checked');
+      var currentTitle = button.getAttribute("title");
+      button.setAttribute("title", "Copiado");
+      let tooltip;
+      if (window.bootstrap) {
+        button.setAttribute("data-bs-toggle", "tooltip");
+        button.setAttribute("data-bs-placement", "left");
+        button.setAttribute("data-bs-title", "Copiado");
+        tooltip = new bootstrap.Tooltip(button, 
+          { trigger: "manual", 
+            customClass: "code-copy-button-tooltip",
+            offset: [0, -8]});
+        tooltip.show();    
+      }
+      setTimeout(function() {
+        if (tooltip) {
+          tooltip.hide();
+          button.removeAttribute("data-bs-title");
+          button.removeAttribute("data-bs-toggle");
+          button.removeAttribute("data-bs-placement");
+        }
+        button.setAttribute("title", currentTitle);
+        button.classList.remove('code-copy-button-checked');
+      }, 1000);
+      // clear code selection
+      e.clearSelection();
+    }
+    const getTextToCopy = function(trigger) {
+      const outerScaffold = trigger.parentElement.cloneNode(true);
+      const codeEl = outerScaffold.querySelector('code');
+      for (const childEl of codeEl.children) {
+        if (isCodeAnnotation(childEl)) {
+          childEl.remove();
+        }
+      }
+      return codeEl.innerText;
+    }
+    const clipboard = new window.ClipboardJS('.code-copy-button:not([data-in-quarto-modal])', {
+      text: getTextToCopy
+    });
+    clipboard.on('success', onCopySuccess);
+    if (window.document.getElementById('quarto-embedded-source-code-modal')) {
+      const clipboardModal = new window.ClipboardJS('.code-copy-button[data-in-quarto-modal]', {
+        text: getTextToCopy,
+        container: window.document.getElementById('quarto-embedded-source-code-modal')
+      });
+      clipboardModal.on('success', onCopySuccess);
+    }
+      var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
+      var mailtoRegex = new RegExp(/^mailto:/);
+        var filterRegex = new RegExp('/' + window.location.host + '/');
+      var isInternal = (href) => {
+          return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
+      }
+      // Inspect non-navigation links and adorn them if external
+     var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item):not(.quarto-navigation-tool):not(.about-link)');
+      for (var i=0; i<links.length; i++) {
+        const link = links[i];
+        if (!isInternal(link.href)) {
+          // undo the damage that might have been done by quarto-nav.js in the case of
+          // links that we want to consider external
+          if (link.dataset.originalHref !== undefined) {
+            link.href = link.dataset.originalHref;
+          }
+        }
+      }
+    function tippyHover(el, contentFn, onTriggerFn, onUntriggerFn) {
+      const config = {
+        allowHTML: true,
+        maxWidth: 500,
+        delay: 100,
+        arrow: false,
+        appendTo: function(el) {
+            return el.parentElement;
+        },
+        interactive: true,
+        interactiveBorder: 10,
+        theme: 'quarto',
+        placement: 'bottom-start',
+      };
+      if (contentFn) {
+        config.content = contentFn;
+      }
+      if (onTriggerFn) {
+        config.onTrigger = onTriggerFn;
+      }
+      if (onUntriggerFn) {
+        config.onUntrigger = onUntriggerFn;
+      }
+      window.tippy(el, config); 
+    }
+    const noterefs = window.document.querySelectorAll('a[role="doc-noteref"]');
+    for (var i=0; i<noterefs.length; i++) {
+      const ref = noterefs[i];
+      tippyHover(ref, function() {
+        // use id or data attribute instead here
+        let href = ref.getAttribute('data-footnote-href') || ref.getAttribute('href');
+        try { href = new URL(href).hash; } catch {}
+        const id = href.replace(/^#\/?/, "");
+        const note = window.document.getElementById(id);
+        if (note) {
+          return note.innerHTML;
+        } else {
+          return "";
+        }
+      });
+    }
+    const xrefs = window.document.querySelectorAll('a.quarto-xref');
+    const processXRef = (id, note) => {
+      // Strip column container classes
+      const stripColumnClz = (el) => {
+        el.classList.remove("page-full", "page-columns");
+        if (el.children) {
+          for (const child of el.children) {
+            stripColumnClz(child);
+          }
+        }
+      }
+      stripColumnClz(note)
+      if (id === null || id.startsWith('sec-')) {
+        // Special case sections, only their first couple elements
+        const container = document.createElement("div");
+        if (note.children && note.children.length > 2) {
+          container.appendChild(note.children[0].cloneNode(true));
+          for (let i = 1; i < note.children.length; i++) {
+            const child = note.children[i];
+            if (child.tagName === "P" && child.innerText === "") {
+              continue;
+            } else {
+              container.appendChild(child.cloneNode(true));
+              break;
+            }
+          }
+          if (window.Quarto?.typesetMath) {
+            window.Quarto.typesetMath(container);
+          }
+          return container.innerHTML
+        } else {
+          if (window.Quarto?.typesetMath) {
+            window.Quarto.typesetMath(note);
+          }
+          return note.innerHTML;
+        }
+      } else {
+        // Remove any anchor links if they are present
+        const anchorLink = note.querySelector('a.anchorjs-link');
+        if (anchorLink) {
+          anchorLink.remove();
+        }
+        if (window.Quarto?.typesetMath) {
+          window.Quarto.typesetMath(note);
+        }
+        if (note.classList.contains("callout")) {
+          return note.outerHTML;
+        } else {
+          return note.innerHTML;
+        }
+      }
+    }
+    for (var i=0; i<xrefs.length; i++) {
+      const xref = xrefs[i];
+      tippyHover(xref, undefined, function(instance) {
+        instance.disable();
+        let url = xref.getAttribute('href');
+        let hash = undefined; 
+        if (url.startsWith('#')) {
+          hash = url;
+        } else {
+          try { hash = new URL(url).hash; } catch {}
+        }
+        if (hash) {
+          const id = hash.replace(/^#\/?/, "");
+          const note = window.document.getElementById(id);
+          if (note !== null) {
+            try {
+              const html = processXRef(id, note.cloneNode(true));
+              instance.setContent(html);
+            } finally {
+              instance.enable();
+              instance.show();
+            }
+          } else {
+            // See if we can fetch this
+            fetch(url.split('#')[0])
+            .then(res => res.text())
+            .then(html => {
+              const parser = new DOMParser();
+              const htmlDoc = parser.parseFromString(html, "text/html");
+              const note = htmlDoc.getElementById(id);
+              if (note !== null) {
+                const html = processXRef(id, note);
+                instance.setContent(html);
+              } 
+            }).finally(() => {
+              instance.enable();
+              instance.show();
+            });
+          }
+        } else {
+          // See if we can fetch a full url (with no hash to target)
+          // This is a special case and we should probably do some content thinning / targeting
+          fetch(url)
+          .then(res => res.text())
+          .then(html => {
+            const parser = new DOMParser();
+            const htmlDoc = parser.parseFromString(html, "text/html");
+            const note = htmlDoc.querySelector('main.content');
+            if (note !== null) {
+              // This should only happen for chapter cross references
+              // (since there is no id in the URL)
+              // remove the first header
+              if (note.children.length > 0 && note.children[0].tagName === "HEADER") {
+                note.children[0].remove();
+              }
+              const html = processXRef(null, note);
+              instance.setContent(html);
+            } 
+          }).finally(() => {
+            instance.enable();
+            instance.show();
+          });
+        }
+      }, function(instance) {
+      });
+    }
+        let selectedAnnoteEl;
+        const selectorForAnnotation = ( cell, annotation) => {
+          let cellAttr = 'data-code-cell="' + cell + '"';
+          let lineAttr = 'data-code-annotation="' +  annotation + '"';
+          const selector = 'span[' + cellAttr + '][' + lineAttr + ']';
+          return selector;
+        }
+        const selectCodeLines = (annoteEl) => {
+          const doc = window.document;
+          const targetCell = annoteEl.getAttribute("data-target-cell");
+          const targetAnnotation = annoteEl.getAttribute("data-target-annotation");
+          const annoteSpan = window.document.querySelector(selectorForAnnotation(targetCell, targetAnnotation));
+          const lines = annoteSpan.getAttribute("data-code-lines").split(",");
+          const lineIds = lines.map((line) => {
+            return targetCell + "-" + line;
+          })
+          let top = null;
+          let height = null;
+          let parent = null;
+          if (lineIds.length > 0) {
+              //compute the position of the single el (top and bottom and make a div)
+              const el = window.document.getElementById(lineIds[0]);
+              top = el.offsetTop;
+              height = el.offsetHeight;
+              parent = el.parentElement.parentElement;
+            if (lineIds.length > 1) {
+              const lastEl = window.document.getElementById(lineIds[lineIds.length - 1]);
+              const bottom = lastEl.offsetTop + lastEl.offsetHeight;
+              height = bottom - top;
+            }
+            if (top !== null && height !== null && parent !== null) {
+              // cook up a div (if necessary) and position it 
+              let div = window.document.getElementById("code-annotation-line-highlight");
+              if (div === null) {
+                div = window.document.createElement("div");
+                div.setAttribute("id", "code-annotation-line-highlight");
+                div.style.position = 'absolute';
+                parent.appendChild(div);
+              }
+              div.style.top = top - 2 + "px";
+              div.style.height = height + 4 + "px";
+              div.style.left = 0;
+              let gutterDiv = window.document.getElementById("code-annotation-line-highlight-gutter");
+              if (gutterDiv === null) {
+                gutterDiv = window.document.createElement("div");
+                gutterDiv.setAttribute("id", "code-annotation-line-highlight-gutter");
+                gutterDiv.style.position = 'absolute';
+                const codeCell = window.document.getElementById(targetCell);
+                const gutter = codeCell.querySelector('.code-annotation-gutter');
+                gutter.appendChild(gutterDiv);
+              }
+              gutterDiv.style.top = top - 2 + "px";
+              gutterDiv.style.height = height + 4 + "px";
+            }
+            selectedAnnoteEl = annoteEl;
+          }
+        };
+        const unselectCodeLines = () => {
+          const elementsIds = ["code-annotation-line-highlight", "code-annotation-line-highlight-gutter"];
+          elementsIds.forEach((elId) => {
+            const div = window.document.getElementById(elId);
+            if (div) {
+              div.remove();
+            }
+          });
+          selectedAnnoteEl = undefined;
+        };
+          // Handle positioning of the toggle
+      window.addEventListener(
+        "resize",
+        throttle(() => {
+          elRect = undefined;
+          if (selectedAnnoteEl) {
+            selectCodeLines(selectedAnnoteEl);
+          }
+        }, 10)
+      );
+      function throttle(fn, ms) {
+      let throttle = false;
+      let timer;
+        return (...args) => {
+          if(!throttle) { // first call gets through
+              fn.apply(this, args);
+              throttle = true;
+          } else { // all the others get throttled
+              if(timer) clearTimeout(timer); // cancel #2
+              timer = setTimeout(() => {
+                fn.apply(this, args);
+                timer = throttle = false;
+              }, ms);
+          }
+        };
+      }
+        // Attach click handler to the DT
+        const annoteDls = window.document.querySelectorAll('dt[data-target-cell]');
+        for (const annoteDlNode of annoteDls) {
+          annoteDlNode.addEventListener('click', (event) => {
+            const clickedEl = event.target;
+            if (clickedEl !== selectedAnnoteEl) {
+              unselectCodeLines();
+              const activeEl = window.document.querySelector('dt[data-target-cell].code-annotation-active');
+              if (activeEl) {
+                activeEl.classList.remove('code-annotation-active');
+              }
+              selectCodeLines(clickedEl);
+              clickedEl.classList.add('code-annotation-active');
+            } else {
+              // Unselect the line
+              unselectCodeLines();
+              clickedEl.classList.remove('code-annotation-active');
+            }
+          });
+        }
+    const findCites = (el) => {
+      const parentEl = el.parentElement;
+      if (parentEl) {
+        const cites = parentEl.dataset.cites;
+        if (cites) {
+          return {
+            el,
+            cites: cites.split(' ')
+          };
+        } else {
+          return findCites(el.parentElement)
+        }
+      } else {
+        return undefined;
+      }
+    };
+    var bibliorefs = window.document.querySelectorAll('a[role="doc-biblioref"]');
+    for (var i=0; i<bibliorefs.length; i++) {
+      const ref = bibliorefs[i];
+      const citeInfo = findCites(ref);
+      if (citeInfo) {
+        tippyHover(citeInfo.el, function() {
+          var popup = window.document.createElement('div');
+          citeInfo.cites.forEach(function(cite) {
+            var citeDiv = window.document.createElement('div');
+            citeDiv.classList.add('hanging-indent');
+            citeDiv.classList.add('csl-entry');
+            var biblioDiv = window.document.getElementById('ref-' + cite);
+            if (biblioDiv) {
+              citeDiv.innerHTML = biblioDiv.innerHTML;
+            }
+            popup.appendChild(citeDiv);
+          });
+          return popup.innerHTML;
+        });
+      }
+    }
+  });
+  </script>
+</div> <!-- /content -->
+
+
+
+
+</body></html>
