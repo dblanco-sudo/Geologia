@@ -9,6 +9,8 @@ format:
     toc: true
     page-layout: full
     format-links: true
+    lightbox: true
+
 
 ---
 
