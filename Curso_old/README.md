@@ -1,6 +1,6 @@
-# Curso cero de Geologia
-Curso cero de Geología para la Facultad de Ciencias de la Universidad de Granada. Puedes encontrar otros cursos cero de nuestro centro en este [enlace](https://cursos-0-fc-ugr.github.io/).
+# Curso cero de Geología
 
+<<<<<<< HEAD
 Material elaborado por Claudio Marchesi, profesor del Departamento de Mineralogía y Petrología, y José Vicente Pérez Peña, profesor del Departamento de Geodinámica de la Universidad de Granada, para el Curso Cero de la UGR.
 
 Este repositorio se puede visitar en [GitHub pages](https://cursos-0-fc-ugr.github.io/Geologia).
@@ -51,3 +51,6 @@ Si encuentra algún error, por favor, comuníquenoslo usando el [gestor de incid
 
 
 Estos contenidos forman parte del FIDO "IMPLEMENTACIÓN DE CURSOS CERO EN LA PLATAFORMA PRADO2 PARA LAS TITULACIONES DE LA FACULTAD DE CIENCIAS" de la Convocatoria de Proyectos de Innovación Docente y Buenas Prácticas del Plan FIDO UGR 2016-2018 (Universidad de Granada)
+=======
+Curso cero de Geología de la Faculta de Ciencias de la UGR, modificado en 2026.
+>>>>>>> 138f4c0b0b4057484d331e2cf5cffe61590a12f7
