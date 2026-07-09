@@ -57,7 +57,7 @@ Las escalas bioestratigráficas ofrecen una forma relativa de ordenar el registr
 
 ## 1.5. Métodos de datación absoluta
 
-Existen diferentes métodos de datación absoluta, siendo las **dataciones radiométricas** las más conocidas y usadas. La base del método de datación radiométrica es que existen unos átomos inestables que emiten energía, llamados *isótopos radiactivos*, que se transforman en otros isótopos estables con una velocidad de desintegración constante. Con el tiempo, la concentración de *isotopos radiactivos del elemento padre* disminuye, y la de los *isotopos radiogénicos del elemento hijo* aumenta. Midiendo las concentraciones actuales de estas dos clases de isotopos se puede determinar el tiempo transcurrido desde la formación de una roca.
+Existen diferentes métodos de datación absoluta, siendo las **dataciones radiométricas** las más conocidas y usadas. La base del método de datación radiométrica es que existen unos átomos inestables que emiten energía, llamados *isótopos radiactivos*, que se transforman en otros isótopos estables con una velocidad de desintegración constante. Con el tiempo, la concentración de *isótopos radiactivos del elemento padre* disminuye, y la de los *isótopos radiogénicos del elemento hijo* aumenta. Midiendo las concentraciones actuales de estas dos clases de isótopos se puede determinar el tiempo transcurrido desde la formación de una roca.
 
 Los sistemas isotópicos (parejas de elementos padre e hijo) más comunes para dataciones geológicas son: U-Pb, Th-Pb, Rb-Sr, Sm-Nd y K-Ar. La aplicación de estos *geocronómetros* ha permitido definir que la Tierra se formó hace alrededor de 4500 millones de años.
 
@@ -170,13 +170,15 @@ Durante los primeros 2.000 millones de años, la Tierra estuvo habitada exclusiv
 
 ## 3.2. La complejidad celular y el \"Big Bang\" de la vida animal
 
-- **Aparecen los eucariotas y pluricelulares:** gracias a la abundancia de oxígeno, las células se hicieron más complejas (con núcleo y orgánulos) mediante la *endosimbiosis* (células que se \"tragaron\" a otras y aprendieron a trabajar juntas). Al final del Precámbrico, estas células se agruparon formando los primeros seres pluricelulares.
+- **Aparecen los eucariotas y seres pluricelulares:** gracias a la abundancia de oxígeno, las células se hicieron más complejas (con núcleo y orgánulos) mediante la *endosimbiosis* (células que se \"tragaron\" a otras y aprendieron a trabajar juntas). Al final del Precámbrico, estas células se agruparon formando los primeros seres pluricelulares.
 
 - **La Explosión Cámbrica (hace 540 Ma):** en el periodo Paleozoico, aparecen casi todos los grandes grupos (filos) de animales que conocemos hoy.
 
 - **Justificación evolutiva:** aparece una presión ambiental nueva: **la depredación**. Para defenderse de ser comidos (o para comer mejor), la selección natural favoreció la aparición de las primeras estructuras duras: **conchas, caparazones y esqueletos** (como los de los icónicos *trilobites*). Las armas y las armaduras cambiaron la evolución para siempre.
 
-![Imagen representativa de la vida en la Tierra durante la explosión cámbrica](media/image10.png){width="5.9in"}
+:::{style="text-align:center;"}
+![Imagen representativa de la vida en la Tierra durante la explosión Cámbrica](media/image10.png){width="5.9in"}
+:::
 
 ## 3.3. La conquista de la tierra firme: plantas y vertebrados
 
@@ -234,7 +236,9 @@ Aquí se presentan las características fundamentales de los grupos taxonómicos
 
 - **Clave:** son famosas por ser **extremófilas**; viven en ambientes donde otros morirían (fuentes termales, fondos marinos hipersalinos, ambientes ácidos).
 
-> ![](media/image12.png){width="5.905555555555556in" height="3.2215277777777778in"}
+:::{style="text-align:center;"}
+![](media/image12.png){width="5.905555555555556in" height="3.2215277777777778in"}
+:::
 
 **B. Dominio Bacteria (Bacterias)**
 

@@ -81,7 +81,7 @@ El núcleo es la capa más interna de la Tierra y se extiende desde unos 2900 km
 El núcleo se divide en dos partes desde el punto de vista físico: el núcleo externo, que es líquido, y el núcleo interno, que es sólido. Esta diferencia se debe a las condiciones extremas de presión y temperatura. El movimiento del hierro líquido en el núcleo externo está relacionado con la generación del campo magnético terrestre.
 
 ::: {style="text-align:center;"}
-![Modelo geoquímico de la estructura terrestre](./media/image3.jpeg){width="3.8in"}
+![Modelo geoquímico de la estructura terrestre](./media/image3.jpeg){width="3.8in" style="border: 2px solid black;"}
 :::
 
 ### Modelo geodinámico
@@ -92,7 +92,7 @@ El modelo geodinámico divide la Tierra según el comportamiento físico de los 
 
 La litosfera es la capa más externa y rígida de la Tierra. Incluye la corteza y la parte superior más rígida del manto. Está fragmentada en placas tectónicas que se desplazan lentamente sobre materiales más plásticos situados debajo.
 
-Existen placas litosféricas oceánicas, continentales y mixtas. Estas placas no coinciden exactamente con los continentes, ya que una misma placa puede incluir parte continental y parte oceánica.
+Existen placas litosféricas oceánicas, continentales y mixtas. Estas placas no coinciden exactamente con los continentes, ya que una misma placa puede incluir una parte continental y una parte oceánica.
 
 ***Astenosfera***
 
@@ -117,7 +117,7 @@ El campo magnético protege la Tierra frente a parte de la radiación procedente
 El núcleo interno es sólido, aunque su temperatura es muy elevada. Se mantiene en estado sólido debido a la enorme presión existente en el centro de la Tierra. Está compuesto principalmente por hierro y níquel.
 
 ::: {style="text-align:center;"}
-![Modelo geodinámico del interior de la tierra](./media/image4.jpeg){width="3.7in"}
+![Modelo geodinámico del interior de la Tierra](./media/image4.jpeg){width="3.7in"}
 :::
 
 ## 1.5. Dinámica de la Geosfera
@@ -185,7 +185,7 @@ Cuando se produce un terremoto, la energía liberada se propaga por el interior 
 Las discontinuidades sísmicas son zonas del interior terrestre donde las ondas sísmicas cambian bruscamente de velocidad o dirección. Estos cambios indican que las ondas han pasado de un material a otro con propiedades diferentes.
 
 ::: {style="text-align:center;"}
-![Propagación de las ondas sísmicas y reflexión en distintas discontinuidades](./media/image6.png){width="5.4in"}
+![Propagación de las ondas sísmicas y reflexión en distintas discontinuidades](./media/image6.png){width="5.4in" style="border: 2px solid black;"}
 :::
 
 **Gravimetría**
@@ -226,7 +226,7 @@ Aunque los meteoritos no proceden del interior de la Tierra, aportan informació
 
 # 2. La tectónica de placas
 
-## 2.1. La tierra como planeta dinámico
+## 2.1. La Tierra como planeta dinámico
 
   La Tierra no es un planeta estático. Aunque desde nuestra escala humana los continentes, las montañas y los océanos parecen estructuras permanentes, en realidad forman parte de un sistema geológico en continuo cambio. La superficie terrestre se transforma lentamente por la acción combinada de procesos internos y externos. Los procesos externos, como la erosión, el transporte y la sedimentación, modelan el relieve desde fuera. Los procesos internos, en cambio, tienen su origen en la energía interna del planeta y son responsables de fenómenos como los terremotos, el vulcanismo, la formación de cordilleras y la apertura o cierre de océanos.
 
@@ -241,18 +241,18 @@ Aunque los meteoritos no proceden del interior de la Tierra, aportan informació
   Aunque Wegener reunió pruebas importantes, como el encaje entre continentes, la coincidencia de fósiles y la continuidad de estructuras geológicas, su teoría fue rechazada durante mucho tiempo porque no pudo explicar qué mecanismo movía los continentes. Décadas después, nuevos descubrimientos permitieron completar esa explicación.
 
 ::: {style="text-align:center;"}
-![Evidencias geológicas de la antigua unión entre Sudamérica y África](./media/image8.jpeg){width="5.5in"}
+![Evidencias geológicas de la antigua unión entre Sudamérica y África](./media/image8.png){width="5.5in"}
 :::
 
-  Uno de los avances más importantes fue el estudio de los fondos oceánicos. Gracias al uso del sonar, se descubrió que el fondo marino no era plano, sino que tenía grandes cordilleras submarinas llamadas dorsales oceánicas. En estas zonas asciende material caliente del manto, se forma magma y se crea nueva corteza oceánica.
+  Uno de los avances más importantes fue el estudio de los fondos oceánicos. Gracias al uso del sonar, se descubrió que el fondo marino no es plano, sino que tiene grandes cordilleras submarinas llamadas dorsales oceánicas. En estas zonas asciende material caliente del manto, se forma magma y se crea nueva corteza oceánica.
 
 ::: {style="text-align:center;"}
 ![Dorsal oceánica y límite de placa divergente](./media/image9.png){width="4.5in"}
 :::
 
-  Este descubrimiento permitió proponer la expansión del fondo oceánico. Según esta idea, la corteza oceánica se forma en las dorsales y se desplaza lentamente hacia ambos lados. Así se explicaba cómo podían separarse los continentes: no se movían atravesando el fondo oceánico, como pensaba Wegener, sino formando parte de placas litosféricas más grandes.
+  Este descubrimiento permitió proponer la expansión del fondo oceánico. Según esta idea, la corteza oceánica se forma en las dorsales y se desplaza lentamente hacia ambos lados. Así se explicaba cómo pueden separarse los continentes: no se mueven atravesando el fondo oceánico, como pensaba Wegener, sino formando parte de placas litosféricas más grandes.
 
-  Otra prueba fundamental fue el paleomagnetismo. Cuando las lavas del fondo oceánico se enfrían, algunos minerales conservan la orientación del campo magnético terrestre. Como el campo magnético ha cambiado varias veces de polaridad, en el fondo oceánico aparecen bandas magnéticas alternas y simétricas a ambos lados de las dorsales. Esta simetría confirmó que la corteza oceánica se iba creando de forma progresiva.
+  Otra prueba fundamental fue el paleomagnetismo. Cuando las lavas del fondo oceánico se enfrían, algunos minerales conservan la orientación del campo magnético terrestre. Como el campo magnético ha cambiado varias veces de polaridad, en el fondo oceánico aparecen bandas magnéticas alternas y simétricas a ambos lados de las dorsales. Esta simetría confirmó que la corteza oceánica se va creando de forma progresiva.
 
   También se observó que los terremotos y volcanes se concentran en franjas concretas del planeta. Estas franjas coinciden con los límites de las placas tectónicas, lo que permitió delimitar las placas y comprender que sus bordes son las zonas de mayor actividad geológica.
 
@@ -420,11 +420,11 @@ Aunque los meteoritos no proceden del interior de la Tierra, aportan informació
 
   Los **terremotos** se producen cuando las rocas se rompen o se desplazan bruscamente a lo largo de fallas. Son frecuentes en los límites de placas porque allí se acumulan grandes tensiones. En las dorsales suelen ser superficiales y moderados; en las fallas transformantes pueden ser destructivos, y en las zonas de subducción pueden alcanzar gran magnitud y generar tsunamis.
 
-  El **vulcanismo** también está relacionado con la tectónica. En las dorsales y rifts, el magma se forma por descompresión al separarse las placas. En las zonas de subducción, la placa que se hunde libera fluidos que favorecen la formación de magmas más viscosos y explosivos. También existen volcanes intraplaca, como los de Hawái, asociados a puntos calientes en el manto.
+  El **vulcanismo** también está relacionado con la tectónica de placas. En las dorsales y rifts, el magma se forma por descompresión al separarse las placas. En las zonas de subducción, la placa que se hunde libera fluidos que favorecen la formación de magmas más viscosos y explosivos. También existen volcanes intraplaca, como los de Hawái, asociados a puntos calientes en el manto.
 
   La **formación de cordilleras** ocurre principalmente en límites convergentes. En zonas de subducción océano-continente se forman cordilleras como los Andes, mientras que en colisiones continente-continente se originan grandes cadenas montañosas como el Himalaya. Estos procesos duran millones de años e implican compresión, plegamiento, fracturación y engrosamiento de la corteza.
 
-  La tectónica de placas también explica la **apertura y cierre de océanos**. Un océano puede comenzar con la fractura de un continente, evolucionar hasta convertirse en un océano amplio y, finalmente, cerrarse si aparece una zona de subducción. Este proceso forma parte del **ciclo de Wilson**.
+  La tectónica de placas también explica la **apertura y cierre de océanos**. Un océano puede comenzar con la fractura de un continente, evolucionar hasta convertirse en un océano amplio y, finalmente, cerrarse si aparece una zona de subducción. Este proceso forma parte del **ciclo de Wilson** (ver abajo).
 
   Además, la tectónica influye en la **distribución de recursos minerales y energéticos**. Muchos depósitos metálicos se forman en zonas de subducción, dorsales oceánicas o ambientes hidrotermales. Las cuencas sedimentarias asociadas a márgenes continentales pueden acumular petróleo, gas o carbón.
 

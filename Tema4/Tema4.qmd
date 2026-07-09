@@ -97,11 +97,11 @@ Es el primer paso. Consiste en la fragmentación o alteración química de las r
 
 *Meteorización física (o mecánica):*
 
-La meteorización es la alteración de las rocas en el lugar donde se encuentran, sin que haya transporte significativo de materiales. Se rompe la roca en pedazos más pequeños sin cambiar su composición. Un ejemplo claro de este proceso sería la gelifracción. El agua se infiltra en las grietas de la roca, se congela por la noche, aumenta su volumen un 9% (actúa como una cuña) y termina rompiendo la roca.
+Rompe la roca en pedazos más pequeños sin cambiar su composición. Un ejemplo claro de este proceso es la gelifracción. El agua se infiltra en las grietas de la roca, se congela por la noche, aumenta su volumen un 9% (actúa como una cuña) y termina rompiendo la roca.
 
 *Meteorización química:*
 
-Cambia la composición química de los minerales de la roca, debilitándola. Un ejemplo clave de este proceso sería la carbonatación (el agua de lluvia con CO~2~ disuelto se vuelve ácida y disuelve rocas como la caliza, creando cuevas y paisajes kársticos).
+Cambia la composición química de los minerales de la roca, debilitándola. Un ejemplo clave de este proceso es la carbonatación (el agua de lluvia con CO~2~ disuelto se vuelve ácida y disuelve rocas como la caliza, creando cuevas y paisajes kársticos).
 
 *Meteorización biológica:*
 
@@ -149,9 +149,9 @@ El transporte se puede realizar de varias formas según la energía del agua o e
 
   Cuando el agente de transporte (el río, el viento, el glaciar) pierde fuerza y velocidad, ya no puede cargar con los materiales y los deja caer. A estos materiales depositados los llamamos sedimentos.
 
-  ¿Dónde ocurre? En las cuencas sedimentarias (zonas bajas como lagos, valles fluviales o fondos marinos).
+  **¿Dónde ocurre?** En las cuencas sedimentarias (zonas bajas como lagos, valles fluviales o fondos marinos).
 
-  Efectos sobre el relieve: Es un proceso constructivo. Da lugar a formas del relieve como las dunas en los desiertos, las playas en la costa, los deltas en las desembocaduras de los ríos o las llanuras aluviales. Con el tiempo y la presión, estos sedimentos se compactarán y formarán nuevas rocas sedimentarias.
+  **Efectos sobre el relieve:** Es un proceso constructivo. Da lugar a formas del relieve como las dunas en los desiertos, las playas en la costa, los deltas en las desembocaduras de los ríos o las llanuras aluviales. Con el tiempo y la presión, estos sedimentos se compactarán y formarán nuevas rocas sedimentarias.
 
 ::: {style="text-align:center;"}
 ![Sedimentación de las partículas detríticas](media/image9.png){width="5.9in"}
@@ -275,21 +275,21 @@ La abundancia de agua y temperatura elevada acelera las reacciones químicas.
 ![Formas del relieve en climas tropicales](media/image20.png){width="5.7in"}
 :::
 
-# 7. Riesgos naturales asociados a los procesos geológicos externos
+# 6. Riesgos naturales asociados a los procesos geológicos externos
 
-## 7.1. Inundaciones
+## 6.1. Inundaciones
 
 Las inundaciones se producen cuando el agua ocupa zonas que normalmente están secas. Pueden deberse a lluvias intensas, desbordamiento de ríos, escorrentía rápida o subida del nivel del mar en zonas costeras.
 
 Son especialmente peligrosas en llanuras de inundación urbanizadas, donde el río recupera temporalmente un espacio que forma parte de su dinámica natural.
 
-## 7.2. Avenidas torrenciales
+## 6.2. Avenidas torrenciales
 
 Las avenidas torrenciales son crecidas rápidas y violentas, típicas de ramblas, barrancos y cuencas pequeñas con fuertes pendientes. Se producen cuando lluvias intensas generan una escorrentía repentina, capaz de transportar agua, barro, rocas y restos vegetales.
 
 Son riesgosas porque pueden desarrollarse en poco tiempo y afectar a zonas aparentemente secas.
 
-## 7.3. Movimientos de ladera
+## 6.3. Movimientos de ladera
 
 Los movimientos de ladera incluyen deslizamientos, desprendimientos, flujos de barro y caídas de bloques. Se producen cuando la gravedad supera la resistencia de los materiales.
 
@@ -299,43 +299,43 @@ El agua suele ser un factor desencadenante importante, porque aumenta el peso de
 ![Movimiento de ladera en zona urbanizada](media/image21.jpeg){width="3.5in"}
 :::
   
-## 7.4. Erosión y desertificación
+## 6.4. Erosión y desertificación
 
 La erosión del suelo supone la pérdida de la capa fértil que sostiene la vegetación y la agricultura. Cuando esta pérdida se combina con sequía, sobrepastoreo, deforestación o uso intensivo del territorio, puede favorecer procesos de desertificación.
 
 La desertificación no significa necesariamente que aparezca un desierto de arena, sino una degradación progresiva del suelo y de su capacidad productiva.
 
-## 7.5. Subsidencia y colapsos kársticos
+## 6.5. Subsidencia y colapsos kársticos
 
 La subsidencia es el hundimiento progresivo del terreno. Puede deberse a compactación de sedimentos, extracción de agua subterránea o disolución de materiales como yesos y calizas.
 
 En zonas kársticas pueden producirse colapsos cuando el techo de una cavidad subterránea se hunde, formando dolinas de colapso.
 
-![](media/image22.png){width="5.5710914260717415in" height="3.715220909886264in"}
+::: {style="text-align:center;"}
+![Gran socavón/hundimiento en Ciudad de Guatemala, ocurrido en 2010](media/image22.png){width="5.5710914260717415in" height="3.715220909886264in"}
+:::
 
-Gran socavón/hundimiento en Ciudad de Guatemala, ocurrido en 2010
-
-## 7.6. Riesgos litorales
+## 6.6. Riesgos litorales
 
 Las costas están sometidas a temporales, oleaje, erosión costera, retroceso de acantilados y cambios en playas. Cuando se construye demasiado cerca del mar, estos procesos naturales se convierten en riesgos para viviendas, paseos marítimos, carreteras e infraestructuras turísticas.
 
 La pérdida de dunas y vegetación costera reduce la protección natural frente a temporales.
 
-## 7.7. Riesgos asociados a nieve, hielo y aludes
+## 6.7. Riesgos asociados a nieve, hielo y aludes
 
 En zonas de montaña, la nieve y el hielo pueden generar riesgos específicos. Los aludes se producen cuando una masa de nieve se desplaza ladera abajo. También pueden darse caídas de hielo, deshielos rápidos y crecidas asociadas a fusión de nieve.
 
 La pendiente, la acumulación de nieve, la temperatura y el viento influyen en la estabilidad del manto nivoso.
 
-# 8. Relación entre riesgos naturales y actividades humanas
+# 7. Relación entre riesgos naturales y actividades humanas
 
 Los procesos naturales existen con independencia de la sociedad, pero el riesgo aumenta cuando las personas ocupan zonas peligrosas o modifican el medio ambiente sin tener en cuenta su dinámica.
 
-## 8.1. Ocupación de llanuras de inundación
+## 7.1. Ocupación de llanuras de inundación
 
 Las llanuras de inundación son espacios naturales del río. Aunque durante años puedan permanecer secas, forman parte del sistema fluvial. Construir viviendas, polígonos o carreteras en estas zonas aumenta la exposición a inundaciones.
 
-## 8.2. Urbanización en laderas inestables
+## 7.2. Urbanización en laderas inestables
 
 Las laderas con fuertes pendientes, materiales arcillosos o fracturados pueden ser inestables. Si se excavan taludes, se elimina vegetación o se añade peso con edificaciones, aumenta la probabilidad de deslizamientos o desprendimientos.
 
@@ -343,35 +343,35 @@ Las laderas con fuertes pendientes, materiales arcillosos o fracturados pueden s
 ![Construcción en laderas inestables. Carmen del Mar (La Herradura, Granada)](media/image23.jpeg){width="5.8in"}
 :::
 
-## 8.3. Construcción en zonas costeras vulnerables
+## 7.3. Construcción en zonas costeras vulnerables
 
 La urbanización cercana a playas, dunas y acantilados incrementa los daños durante temporales. Además, algunas obras costeras alteran el transporte natural de sedimentos y pueden provocar erosión en otros puntos del litoral.
 
-## 8.4. Deforestación, incendios y pérdida de suelo
+## 7.4. Deforestación, incendios y pérdida de suelo
 
 La pérdida de vegetación deja el suelo expuesto al impacto directo de la lluvia. Después de incendios forestales, la escorrentía puede aumentar y arrastrar cenizas, suelo y sedimentos hacia barrancos y ríos.
 
-## 8.5. Agricultura intensiva y sobreexplotación de acuíferos
+## 7.5. Agricultura intensiva y sobreexplotación de acuíferos
 
 La agricultura intensiva puede favorecer la erosión si elimina la cubierta vegetal o agota el suelo. La extracción excesiva de agua subterránea puede causar descenso del nivel freático, subsidencia o salinización en zonas costeras.
 
 ::: {style="text-align:center;"}
-![Sobreexplotación del acuífero del valle de Toluca (Mexico)](media/image24.png){width="6.3in"}
+![Sobreexplotación del acuífero del valle de Toluca (México)](media/image24.png){width="6.3in"}
 :::
 
-## 8.6. Obras públicas y modificación de cauces
+## 7.6. Obras públicas y modificación de cauces
 
 Carreteras, presas, canalizaciones y movimientos de tierra modifican la circulación natural del agua y los sedimentos. Una presa retiene sedimentos que antes llegaban a la costa, lo que puede contribuir a la erosión litoral. Una carretera mal diseñada puede cortar drenajes naturales y concentrar la escorrentía en puntos peligrosos.
 
-## 8.7. Cambio climático y vulnerabilidad
+## 7.7. Cambio climático y vulnerabilidad
 
 El cambio climático puede alterar la frecuencia e intensidad de algunos fenómenos extremos, como sequías, lluvias intensas, olas de calor o temporales costeros. Sus efectos dependen también de la vulnerabilidad del territorio: una misma lluvia causa menos daños en una cuenca bien gestionada que en una zona urbanizada sin planificación.
 
-# 9. Ordenación territorial y prevención de riesgos
+# 8. Ordenación territorial y prevención de riesgos
 
 La ordenación territorial consiste en planificar el uso del territorio teniendo en cuenta sus características naturales, sus recursos y sus riesgos. Su objetivo es decidir dónde conviene construir, cultivar, proteger, restaurar o limitar determinados usos.
 
-## 9.1. Mapas de peligrosidad, exposición y riesgo
+## 8.1. Mapas de peligrosidad, exposición y riesgo
 
 Los mapas de peligrosidad muestran dónde puede ocurrir un fenómeno natural, como una inundación o un deslizamiento. Los mapas de exposición indican qué personas, edificios o infraestructuras se encuentran en esas zonas. El riesgo aparece al combinar peligrosidad, exposición y vulnerabilidad.
 
@@ -381,13 +381,13 @@ Una zona puede tener alta peligrosidad, pero bajo riesgo si no está ocupada. En
 ![Mapa de riesgo de inundación](media/image25.jpeg){width="6.5in"}
 :::
 
-## 9.2. Zonificación del territorio
+## 8.2. Zonificación del territorio
 
 La zonificación divide el territorio en áreas según su aptitud y nivel de riesgo. Algunas zonas pueden ser adecuadas para urbanizar, otras para agricultura, otras para protección ambiental y otras deben mantenerse libres por su peligrosidad.
 
 Esta herramienta es esencial en llanuras de inundación, costas, laderas inestables y áreas kársticas.
 
-## 9.3. Medidas estructurales y no estructurales
+## 8.3. Medidas estructurales y no estructurales
 
 Las medidas estructurales son obras físicas destinadas a reducir el peligro, como diques, muros de contención, drenajes, presas de laminación o estabilización de taludes.
 
@@ -397,11 +397,11 @@ Las medidas no estructurales se basan en planificación, normativa, educación, 
 ![Medidas de contención frente a deslizamientos en talud de carretera](media/image26.jpeg){width="5.7in"}
 :::
 
-## 9.4. Restauración ambiental
+## 8.4. Restauración ambiental
 
 Restaurar riberas, dunas, humedales, laderas degradadas o cubiertas vegetales ayuda a recuperar funciones naturales del territorio. Una ribera bien conservada puede reducir la velocidad del agua durante una crecida. Una duna protege la costa frente a temporales. Una ladera con vegetación estable pierde menos suelo.
 
-## 9.5. Gestión y planificación
+## 8.5. Gestión y planificación
 
 La prevención de inundaciones y erosión debe abordarse a escala de cuenca. Lo que ocurre en la cabecera de un río afecta a los tramos medios y bajos. La deforestación, urbanización o construcción de presas modifica la cantidad de agua y sedimentos que circulan por todo el sistema.
 

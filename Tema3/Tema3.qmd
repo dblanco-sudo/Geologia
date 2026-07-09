@@ -247,7 +247,7 @@ El riesgo sísmico aparece en zonas donde pueden producirse terremotos capaces d
 
 La predicción exacta de un terremoto, indicando día, hora y lugar, no es posible actualmente. Sin embargo, sí puede evaluarse la probabilidad de que una zona sufra terremotos en un periodo determinado. Esta información permite elaborar mapas de peligrosidad y mejorar la planificación territorial.
 
-8.2 Riesgo volcánico
+## 8.2. Riesgo volcánico
 
 El riesgo volcánico depende del tipo de volcán, el estilo eruptivo, la frecuencia de actividad y la ocupación humana del territorio. Los peligros volcánicos incluyen coladas de lava, caída de cenizas, gases, flujos piroclásticos, lahares, deformaciones del terreno y sismicidad asociada.
 
@@ -289,7 +289,7 @@ En la explotación de energía geotérmica, el conocimiento del calor interno y 
 
 En la Ingeniería geológica, el estudio de fallas, fracturas, tipos de roca y estabilidad del terreno es esencial para construir túneles, presas, carreteras, edificios y otras infraestructuras. Ignorar la dinámica geológica puede aumentar el riesgo de daños, sobrecostes o accidentes.
 
-En la ordenación del territorio, la Geología ayuda a decidir dónde construir y qué zonas deben protegerse. No todas las áreas son igual de adecuadas para urbanizar. Algunas presentan riesgo sísmico, volcánico, inundable, de subsidencia o de movimientos de ladera. Incorporar la información geológica a la planificación reduce pérdidas futuras.
+En la ordenación del territorio, la Geología ayuda a decidir dónde construir y qué zonas deben protegerse. No todas las áreas son igual de adecuadas para urbanizar. Algunas presentan riesgo sísmico, volcánico, de inundaciones, de subsidencia o de movimientos de ladera. Incorporar la información geológica a la planificación reduce pérdidas futuras.
 
 Finalmente, el estudio de la dinámica interna es fundamental para la predicción y gestión de riesgos naturales. Aunque no siempre se pueda predecir exactamente cuándo ocurrirá un fenómeno, sí se pueden identificar zonas peligrosas, mejorar los sistemas de alerta, diseñar planes de emergencia y construir sociedades más preparadas.
 

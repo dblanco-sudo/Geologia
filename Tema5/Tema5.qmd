@@ -13,7 +13,7 @@ format:
 
 ---
 
-**1. INTRODUCCIÓN**
+# 1. INTRODUCCIÓN
 
 Desde tiempos remotos las formas y propiedades de los minerales, cristales y rocas han sido objeto de admiración, codicia, superstición y necesidad.
 
@@ -35,7 +35,7 @@ Objetos fabricados con materias primas derivadas de minerales
 :::
 
 
-## 2. MINERALES Y CRISTALES
+# 2. MINERALES Y CRISTALES
 
 Un **mineral** es un *sólido homogéneo y natural*, normalmente de *origen inorgánico*, con una *composición química y una estructura interna definidas*, que puede dar lugar al desarrollo de superficies planas conocidas como *caras*. Los minerales pueden aparecer de forma aislada con desarrollo o no de caras, o formando agregados cristalinos como componentes fundamentales de las rocas.
 
@@ -104,7 +104,7 @@ La materia cristalina no es exclusiva de los minerales. Por ejemplo, **las prote
 
 <https://www.youtube.com/watch?v=ZChqQPz3GmM>
 
-## 3. NOMENCLATURA Y CLASIFICACIÓN DE LOS MINERALES
+# 3. NOMENCLATURA Y CLASIFICACIÓN DE LOS MINERALES
 
 El nombre de los minerales deriva en general del nombre de un lugar (ej., andalucita), de una característica física (ej., albita = del latín *alba*, blanca), de su composición química (ej., cuprita, del latín *cuprum*, mineral de cobre), o de personajes más o menos conocidos (ej., goethita, de J.W. von Goethe, literato alemán). Desde el siglo XIX, la clasificación de los minerales se basa en criterios cristaloquímicos, es decir según qué elementos químicos están presentes y como se ordenan en la estructura interna de los cristales. Según estos criterios, los minerales se agrupan en diferentes [CLASES]{.underline} caracterizadas por la presencia de determinados [grupos de iones]{.underline}: por ejemplo, *elementos* (minerales con átomos de un único elemento químico), *sulfuros* (minerales con S^-^, S^2-^), *halogenuros* (minerales con Cl^-^, F^-^), *óxidos e hidróxidos* (minerales con O^2-^, OH^-^), *carbonatos* (minerales con CO~3~^2-^), *sulfatos* (minerales con SO~4~^2-^), *fosfatos* (minerales con PO~4~^3-^), *silicatos* (minerales con SiO~4~^4-^). Los silicatos son los minerales principales que constituyen la corteza terrestre y se dividen en subclases según como los tetraedros Si-O se disponen en el espacio.
 
@@ -113,7 +113,7 @@ El nombre de los minerales deriva en general del nombre de un lugar (ej., andalu
 ![Clasificación cristaloquímica de los minerales](media/image12.png){width="5.0in"}
 :::
 
-## 4. PROPIEDADES FÍSICAS DE LOS MINERALES
+# 4. PROPIEDADES FÍSICAS DE LOS MINERALES
 
 La composición química (tipo de átomos y de enlaces atómicos) y la estructura interna de los minerales (simetría del cristal) determinan sus propiedades. Las principales propiedades físicas que sirven para reconocer los minerales en muestra de mano son:
 
@@ -186,7 +186,7 @@ La composición química (tipo de átomos y de enlaces atómicos) y la estructur
 
 **h) Peso específico**: relación entre el peso del mineral y el peso de un volumen igual de agua. Está relacionado con la composición química y la estructura interna de los minerales. Para muchos minerales varía entre 2 y 3.
 
-## 5. DIAGRAMAS DE FASES
+# 5. DIAGRAMAS DE FASES
 
 Son diagramas que aplican las reglas de la termodinámica para predecir las condiciones de equilibrio y reacción entre minerales. Se construyen a partir de cálculos teóricos o resultados experimentales y ayudan a definir las condiciones de formación de los minerales. El diagrama siguiente representa las condiciones de presión y temperatura de equilibrio en las que se forman los tres minerales de composición **Al~2~SiO~5~**. Por ejemplo, un aumento de temperatura de 600 a 800 ºC a una presión constante de 7 kilobares causa la transformación de distena a sillimanita.
 

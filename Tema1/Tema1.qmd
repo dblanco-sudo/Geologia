@@ -163,7 +163,7 @@ La primera fotografía aérea fue tomada por encima del pueblo de Petit-Bicerre 
 
 :::
 
-La fotografía área tuvo una gran evolución durante la Primera y la Segunda Guerra Mundial. En ellas era frecuente el uso de imágenes aéreas para planificar campañas, observar y marcar objetivos, reconocer el terreno, etc.
+La fotografía aérea tuvo una gran evolución durante la Primera y la Segunda Guerra Mundial. En ellas era frecuente el uso de imágenes aéreas para planificar campañas, observar y marcar objetivos, reconocer el terreno, etc.
 
 :::: {style="display:flex; justify-content:center; gap:5%; align-items:flex-start;"}
 
@@ -190,7 +190,7 @@ Para la historia y la ciencia en España, este vuelo captura lo que los expertos
 ![Fotografía aérea del "Vuelo Americano" de 1956](media/image16.png){width="7in"}
 :::
 
-### 1.7. Las imágenes de satélite
+## 1.7. Las imágenes de satélite
 
 Las imágenes de satélite, junto con la fotografía área, constituyen otra de las fuentes principales de información para geología.
 
@@ -204,7 +204,7 @@ El primer satélite en adquirir imágenes del territorio de forma sistemática f
 ![Imagen LandSat del desierto de Namibia (13 de noviembre de 2019)](media/image17.png){width="9in"}
 :::
 
-### 1.8. Diagramas de flujo y bloques diagrama
+## 1.8. Diagramas de flujo y bloques diagrama
 
 La geología y el medio ambiente no son estáticos, son una red de procesos interconectados.
 
@@ -216,7 +216,7 @@ La geología y el medio ambiente no son estáticos, son una red de procesos inte
 ![Bloque diagrama explicando el ciclo del agua. Fuente: USGS.](media/image18.jpeg){width="8in"}
 :::
 
-### 1.9. Textos, memorias e informes
+## 1.9. Textos, memorias e informes
 
 Una fuente importante de información en geología son los textos, memorias e informes previos. En ellos se recopilan observaciones de campo, descripciones de afloramientos, análisis realizados a las rocas, edades de las formaciones geológicas y los métodos empleados para obtener dichos datos.
 
