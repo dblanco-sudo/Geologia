@@ -3,9 +3,16 @@ project:
 
 website:
   title: "Cursos 0 Geología"
-  page-navigation: true
+  back-to-top-navigation: true
 
 format:
   html:
-    theme: cosmo
-    toc: false
+    theme: sandstone
+    fontsize: 1.2em
+    toc: true
+    sidebar: false
+
+  page-footer: 
+    right: Made with [Quarto](https://quarto.org/)
+    #right: "Maintenance: the organizers"
+
