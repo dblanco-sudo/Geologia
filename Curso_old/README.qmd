@@ -52,5 +52,3 @@ Si encuentra algún error, por favor, comuníquenoslo usando el [gestor de incid
 
 Estos contenidos forman parte del FIDO "IMPLEMENTACIÓN DE CURSOS CERO EN LA PLATAFORMA PRADO2 PARA LAS TITULACIONES DE LA FACULTAD DE CIENCIAS" de la Convocatoria de Proyectos de Innovación Docente y Buenas Prácticas del Plan FIDO UGR 2016-2018 (Universidad de Granada)
 =======
-Curso cero de Geología de la Faculta de Ciencias de la UGR, modificado en 2026.
->>>>>>> 138f4c0b0b4057484d331e2cf5cffe61590a12f7
