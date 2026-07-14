@@ -1,0 +1,149 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <meta http-equiv="Content-Style-Type" content="text/css" />
+  <meta name="generator" content="pandoc" />
+  <title></title>
+    <link rel="stylesheet" type="text/css" href="otro.css">
+  <style type="text/css">code{white-space: pre;}</style>
+  <link rel="stylesheet" href="otro.css" type="text/css" />
+  <script src='https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.2/MathJax.js?config=TeX-MML-AM_CHTML'></script>
+</head>
+
+
+<body>
+    <div id="header">
+        <h1 class="title">Cuestionario Tema 7</h1>
+    </div>
+    
+    <a href="https://cursos-0-fc-ugr.github.io/Geologia/">Volver a la página principal de Geología</a><br><br>
+    <a href="geologia_7_1.html">Volver a teoría</a>
+
+    <form id = "quiz" name = "quiz">
+  
+        <ol type="1">
+                       
+            <li><article style="background-color:lightred;border-color:#9d2b09">
+            
+                <strong><p>¿Qué materiales utiliza la Bioestratigrafía para ordenar las rocas sedimentarias en una secuencia temporal? </p></strong>
+                  
+                <ol style="list-style-type: lower-alpha">
+                    <li><p><input type = "radio" id = "mc" name = "question1" value = "1-a"> Los minerales</p></li>
+                    <li><p><input type = "radio" id = "mc" name = "question1" value = "1-b"> Los fragmentos (o clastos)</p></li>
+                    <li><p><input type = "radio" id = "mc" name = "question1" value = "1-c"> Los fósiles</p></li>
+                    <li><p><input type = "radio" id = "mc" name = "question1" value = "1-d"> Las superficies de contacto entre los estratos</p></li>
+                </ol>
+            </article></li>
+
+
+            <li><article style="background-color:lightred;border-color:#9d2b09">
+            
+                <strong><p>¿Cuál de estos nombres indica una unidad temporal de la Tabla Cronoestratigráfica Internacional? </p></strong>
+                      
+                <ol style="list-style-type: lower-alpha">
+                    <li><p><input type = "radio" id = "mc" name = "question2" value = "2-a"> Eón</p></li>
+                    <li><p><input type = "radio" id = "mc" name = "question2" value = "2-b"> Intervalo</p></li>
+                    <li><p><input type = "radio" id = "mc" name = "question2" value = "2-c"> Etapa</p></li>
+                    <li><p><input type = "radio" id = "mc" name = "question2" value = "2-d"> Lapso</p></li>
+                </ol>
+            </article></li>
+
+
+            <li><article style="background-color:lightred;border-color:#9d2b09">
+            
+                <strong><p>¿En qué fenómeno natural se basan los métodos de datación radiométrica? </p></strong>
+                        
+                <ol style="list-style-type: lower-alpha">
+                    <li><p><input type = "radio" id = "mc" name = "question3" value = "3-a"> La desintegración de isotopos radiactivos en isotopos estables por emisión de energía a velocidad constante en el tiempo</li></p>
+                    <li><p><input type = "radio" id = "mc" name = "question3" value = "3-b"> La transferencia de electrones entre isotopos radiactivos e isotopos estables a velocidad constante en el tiempo</li></p>
+                    <li><p><input type = "radio" id = "mc" name = "question3" value = "3-c"> La formación de enlaces químicos entre isotopos radiactivos e isotopos estables a velocidad constante en el tiempo</li></p>
+                    <li><p><input type = "radio" id = "mc" name = "question3" value = "3-d"> La transferencia de electrones entre isotopos radiactivos e isotopos estables a velocidad variable en el tiempo</li></p>
+                </ol>
+            </article></li>
+
+
+            <li><article style="background-color:lightred;border-color:#9d2b09">
+            
+                <strong><p>¿Cuál de las siguientes parejas de elementos padre-hijo constituye un método de datación radiométrica en Geología? </p></strong>
+                
+                <ol style="list-style-type: lower-alpha">
+                    <li><p><input type = "radio" id = "mc" name = "question4" value = "4-a"> Ca-Ar</li></p>
+                    <li><p><input type = "radio" id = "mc" name = "question4" value = "4-b"> Rb-Cs</li></p>
+                    <li><p><input type = "radio" id = "mc" name = "question4" value = "4-c"> Rb-K</li></p>
+                    <li><p><input type = "radio" id = "mc" name = "question4" value = "4-d"> U-Pb</li></p>
+                </ol>
+            </article></li>
+   
+        </ol>
+   
+        <input id = "button2" type = "button" value = "Comprobar" onclick = "check();"><br>
+
+    </form>
+
+    <div id = "after_submit">
+        <p id = "number_correct"></p>
+    </div>
+
+    <br>
+
+    <a href="geologia_7_1.html">Volver a teoría</a><br><br>
+    <a href="https://cursos-0-fc-ugr.github.io/Geologia/">Volver a la página principal de Geología</a>
+
+    <br><br>
+
+    <script type="text/javascript" language="javascript">
+        function check(){
+
+            var question1 = document.quiz.question1.value;
+            var question2 = document.quiz.question2.value;
+            var question3 = document.quiz.question3.value;
+            var question4 = document.quiz.question4.value;
+            var correct = 0;
+
+
+            if (question1 == "1-c") {
+                correct++;
+            }
+            if (question2 == "2-a") {
+                correct++;
+            }	
+            if (question3 == "3-a") {
+                correct++;
+            }
+            if (question4 == "4-d") {
+                correct++;
+            }
+
+            var score;
+
+            //document.getElementById("after_submit").style.visibility = "visible";
+            
+            document.getElementById("number_correct").innerHTML = "Has acertado " + correct + " de 4. (" + Math.round(correct/4*100) + "%)";
+            }
+
+
+  function show(str, obj){
+    document.getElementById(obj).innerHTML = str;
+    //MathJax.Hub.Typeset();
+    MathJax.Hub.Queue(["Typeset",MathJax.Hub,obj]);
+  }
+  function show2(divID) {
+    var sol = document.getElementById("sol-"+divID);
+    var div = document.getElementById(divID);
+    if(sol.style.display == "none"){
+      sol.style.display = "block";
+    }else{
+      sol.style.display = "none";
+    }
+    if(div.innerHTML == "Solución"){
+      div.innerHTML = "Oculta solución";
+    }else{
+      div.innerHTML = "Solución";
+    }
+  }
+    </script>
+
+</body>
+</html>
+      
