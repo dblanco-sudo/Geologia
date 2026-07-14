@@ -4,6 +4,9 @@ project:
 website:
   title: "Cursos 0 Geología"
   back-to-top-navigation: true
+  page-footer: 
+    right: Made with [Quarto](https://quarto.org/)
+    #right: "Maintenance: the organizers"
 
 format:
   html:
@@ -11,8 +14,4 @@ format:
     fontsize: 1.2em
     toc: true
     sidebar: false
-
-  page-footer: 
-    right: Made with [Quarto](https://quarto.org/)
-    #right: "Maintenance: the organizers"
 
