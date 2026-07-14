@@ -1,0 +1,279 @@
+---
+title: "Tema 7: Historia de la Tierra y la vida"
+title-block-banner: true
+lang: es
+execute:
+  echo: false
+format: 
+  html:
+    toc: true
+    page-layout: full
+    format-links: true
+    lightbox: true
+
+---
+
+# 1. El tiempo geológico: magnitud, escala y métodos de datación. Problemas de datación absoluta y relativa
+
+## 1.1. Introducción
+
+El transcurrir del tiempo ha interesado la humanidad desde sus orígenes. Los babilonios y egipcios inventaron las primeras formas de medir el tiempo hasta que en el Siglo XIII se fabricó el primer reloj.
+
+En las ciencias históricas, como la **Geología**, es necesario temporizar los eventos para contextualizarlos en un proceso histórico. Es algo similar a lo que se hace en Historia o Arqueología.
+
+Durante la Edad Media, la historia de la Tierra se remontaba a los siete días de la creación bíblica. Hacia finales del Siglo XVII se tuvo conciencia de que la historia de nuestro planeta podría rebasar con creces la cronología bíblica. Ya en el Siglo XVIII se aceptó que la Tierra debería tener una antigüedad que se remonta incluso a millones de años.
+
+Uno de los aspectos claves para entender el tiempo en Geología es encontrar elementos y propiedades de los materiales que constituyen la Tierra que estén sometidos a cambios a lo largo del tiempo, y que dichos cambios puedan ser medidos.
+
+La herramienta de trabajo más evidente son las rocas y su disposición espacial. Nicolaus Steno definió en el Siglo XVII la primera forma de establecer en Geología una línea temporal relativa y puso así las bases de la **Estratigrafía**: *en una secuencia de rocas organizadas en estratos o capas, si no se han producido distorsiones importantes, las rocas que están en la base de la secuencia son más antiguas que las que se encuentran en el techo*.
+
+## 1.2. El registro rocoso: la litoestratigrafía
+
+La ordenación vertical de las rocas, por tanto, permite definir una forma de ordenación temporal de las mismas, que es el objeto de estudio de la **Litoestratigrafía**.
+
+Las escalas litoestratigráficas locales pueden correlacionarse a escala regional y, de esta forma, establecer una secuencia temporal reflejada en las rocas en una región muy amplia.
+
+::: {style="text-align:center;"}
+![Ejemplos de columnas litoestratigráficas](media/image1.jpeg){width="5.9in"}
+:::
+
+## 1.3. De las rocas a los organismos: la bioestratigrafía
+
+Uno de los elementos constituyentes de las rocas sedimentarias son los **fósiles**. Como restos de organismos (o de su actividad) que vivieron en el pasado, los fósiles están sometidos a cambios evolutivos a lo largo del tiempo. La posibilidad de determinar apariciones y extinciones de especies en el tiempo nos permite obtener otra forma de secuenciar temporalmente los estratos, en función de su contenido fosilífero. La disciplina denominada **Bioestratigrafía** se encarga de identificar estos eventos y secuenciarlos en el tiempo. El resultado de esta ordenación temporal de las asociaciones de fósiles son las **escalas bioestratigráficas**.
+
+::: {style="text-align:center;"}
+![Distribución temporal de fósiles que se utilizan para hacer bioestratigrafía](media/image2.png){width="5.9in"}
+:::
+
+Los organismos que permiten definir intervalos de tiempo muy cortos que se pueden correlacionar a grandes distancias son buenos indicadores bioestratigráficos y reciben el nombre de **fósiles guías**. Un buen fósil guía debe: a) ser independiente del medio donde vive; b) presentar una evolución rápida; c) tener una amplia distribución geográfica; d) ser abundante en el registro fósil; e) tener una buena preservación; y f) ser fácilmente reconocible.
+
+## 1.4. Medir el tiempo geológico: la geocronología
+
+Las escalas bioestratigráficas ofrecen una forma relativa de ordenar el registro rocoso; es decir, podemos establecer que rocas son más antiguas o más recientes. Sin embargo, para establecer una escala cronoestratigráfica de referencia mundial necesitamos unidades temporales reales y no relativas, y con límites homogéneos a nivel mundial. Las unidades cronoestratigráficas o geocronológicas se ordenan jerárquicamente (de mayor a menor) en una **Tabla Cronoestratigráfica Internacional**. Estas unidades son: *Eón, Era, Periodo, Época y Edad*.
+
+:::{style="text-align:center;"}
+![Tabla cronoestratigráfica internacional](media/image3.jpeg){width="6.074522090988626in" height="4.59375in"}
+:::
+
+## 1.5. Métodos de datación absoluta
+
+Existen diferentes métodos de datación absoluta, siendo las **dataciones radiométricas** las más conocidas y usadas. La base del método de datación radiométrica es que existen unos átomos inestables que emiten energía, llamados *isótopos radiactivos*, que se transforman en otros isótopos estables con una velocidad de desintegración constante. Con el tiempo, la concentración de *isótopos radiactivos del elemento padre* disminuye, y la de los *isótopos radiogénicos del elemento hijo* aumenta. Midiendo las concentraciones actuales de estas dos clases de isótopos se puede determinar el tiempo transcurrido desde la formación de una roca.
+
+Los sistemas isotópicos (parejas de elementos padre e hijo) más comunes para dataciones geológicas son: U-Pb, Th-Pb, Rb-Sr, Sm-Nd y K-Ar. La aplicación de estos *geocronómetros* ha permitido definir que la Tierra se formó hace alrededor de 4500 millones de años.
+
+::: {style="text-align:center;"}
+![Desintegración de elementos radioactivos para dataciones](media/image4.jpeg){width="5.9in"}
+:::
+
+La mayoría de los elementos radiactivos usados para datar intervalos temporales amplios se encuentra en cantidades significativas para ser cuantificadas con los aparatos convencionales de medición en las rocas ígneas, que no contienen fósiles. Por tanto, para correlacionar las escalas bioestratigráficas y establecer la escala geocronológica de referencia se necesitan secciones que contengan rocas ígneas intercaladas entre rocas sedimentarias con fósiles. De esta forma podemos obtener edades absolutas y datar la existencia de fósiles concretos. Las edades absolutas obtenidas de esta forma en secciones locales repartidas por todo el mundo han servido para ir estableciendo el armazón temporal de la escala geocronológica mundial.
+
+# 2. La historia de la Tierra: principales acontecimientos geológicos
+
+Para entender la historia de nuestro planeta, los geólogos dividen los **4.500 millones de años (Ma)** de la Tierra en grandes etapas. Imagina que toda la historia de la Tierra se comprime en un día de 24 horas: el ser humano aparecería en el último segundo antes de la medianoche.
+
+## 2.1. Etapa 1: El Precámbrico (El amanecer del planeta)
+
+Abarca desde el nacimiento de la Tierra hasta hace unos 540 millones de años. Es el periodo más largo (¡el 88% de la historia del planeta!). Se divide en tres eones:
+
+1. **Eón Hádico (4.500 - 4.000 Ma)**
+
+   - **El acontecimiento:** la Tierra es un océano de magma ardiente bombardeado constantemente por meteoritos.
+
+   - **Hito clave:** un protoplaneta del tamaño de Marte (llamado Tea) choca contra la Tierra. Los restos de la colisión quedan en órbita y forman **la Luna**. Al enfriarse la superficie, el vapor de agua se condensa y nacen los primeros océanos.
+
+2. **Eón Arcaico (4.000 - 2.500 Ma)**
+
+   - **El acontecimiento:** aparecen las primeras masas de corteza continental.
+
+   - **Hito clave (¡el origen de la vida!):** en el fondo de los océanos, junto a fuentes hidrotermales, surgen las primeras células procariotas (bacterias). Aparecen los **estromatolitos**: colonias de cianobacterias que experimentan la **fotosíntesis** y empiezan a liberar oxígeno a los océanos.
+
+3. **Eón Proterozoico (2.500 - 540 Ma)**
+
+   - **La Gran Oxidación:** el oxígeno satura los mares y pasa a la atmósfera, cambiando el clima para siempre. El cielo pasa de ser anaranjado a azul.
+
+   - **Tierra Bola de Nieve:** la caída del CO~2~ provoca las glaciaciones más brutales de la historia; el planeta se cubre de hielo por completo.
+
+   - **Hito clave:** surgen las primeras células complejas (eucariotas) y, al final del eón, los primeros seres pluricelulares (la misteriosa *Fauna de Ediacara*). Se forma el supercontinente **Rodinia**.
+
+   ::: {style="text-align:center;"}
+   ![Imagen representativa de la transición entre el Hádico y el Arcaico](media/image5.png){width="5.9in"}
+   :::
+
+## 2.2. Etapa 2: La Era Paleozoica (La vida conquista la Tierra)
+
+*(Hace 540 - 252 millones de años)*
+
+- **La Explosión Cámbrica:** en un parpadeo geológico, los mares se llenan de una variedad asombrosa de vida compleja con caparazones y esqueletos (aparecen los icónicos **trilobites**).
+
+- **Conquista de la tierra firme:** las plantas colonizan los continentes seguidas por los artrópodos (insectos gigantes gracias al exceso de oxígeno) y los primeros anfibios. Durante el Periodo Carbonífero se forman inmensos bosques que hoy en día son los yacimientos de carbón que quemamos.
+
+- **El gran cierre:** los continentes chocan entre sí para formar el supercontinente más famoso: **Pangea**, creando grandes cordilleras como los Apalaches o el macizo Ibérico.
+
+- **Final trágico:** termina con la **Extinción del Pérmico**, la mayor extinción masiva de la historia (desapareció el 95% de las especies marinas) debido a un vulcanismo masivo en Siberia que asfixió el planeta.
+
+::: {style="text-align:center;"}
+![Imagen representativa de la explosión de la vida en el Paleozoico](media/image6.png){width="5.9in"}
+:::
+
+
+## 2.3. Etapa 3: La Era Mesozoica (La era de los reptiles)
+
+*(Hace 252 - 66 millones de años)*
+
+- **Ruptura de Pangea:** el supercontinente empieza a fracturarse. Se abre el Océano Atlántico y el clima se vuelve cálido y húmedo en todo el mundo.
+
+- **Hito clave:** es la era de los **Dinosaurios**, que dominan la tierra firme, mientras que los *ammonites* llenan los mares y las primeras aves y plantas con flores (angiospermas) empiezan a evolucionar.
+
+- **El impacto:** termina con la archiconocida **Extinción del Cretácico**. Un asteroide de 10 km de diámetro impacta en el actual México (Chicxulub), provocando un invierno global que borra de la faz de la Tierra a los dinosaurios terrestres.
+
+::: {style="text-align:center;"}
+![Imagen representativa de la vida y eventos del Mesozoico](media/image7.png){width="5.9in"}
+:::
+
+## 2.4. Etapa 4: La Era Cenozoica (La era de los mamíferos)
+
+*(Hace 66 millones de años hasta el presente)*
+
+- **La Orogenia Alpina:** el choque de continentes (como la placa de la India contra Asia, o la Africana contra Europa) levanta las cordilleras que vemos hoy en día: **el Himalaya, los Alpes, los Pirineos y los Sistemas Béticos**.
+
+- **El ascenso de los mamíferos:** al quedar el planeta vacío tras la muerte de los dinosaurios, los pequeños mamíferos aprovechan la oportunidad, se diversifican y conquistan todos los ecosistemas.
+
+- **Las Glaciaciones Cuaternarias:** el clima se enfría notablemente y grandes capas de hielo avanzan y retroceden desde los polos.
+
+- **Hito final:** en los últimos instantes de esta era, aparece el género *Homo* y, finalmente, nuestra especie (*Homo sapiens*), alterando los sistemas ambientales globales.
+
+:::{style="text-align:center;"}
+![Imagen representativa de la vida en el Cenozoico](media/image8.png){width="5.9in"}
+:::
+
+# 3. La historia de la vida en la Tierra: principales cambios en los grandes grupos de seres vivos y justificación desde la perspectiva evolutiva
+
+La vida en la Tierra no ha sido siempre igual. Ha pasado de estar dominada por bacterias invisibles a albergar bosques gigantes, dinosaurios y, finalmente, humanos. La **perspectiva evolutiva** nos enseña que estos cambios ocurren por dos fuerzas combinadas:
+
+1. **La selección natural:** los organismos con características que les permiten sobrevivir o reproducirse mejor en un entorno concreto dejan más descendencia.
+
+1. **Los cambios geológicos y climáticos:** la Tierra cambia sus reglas (glaciaciones, movimiento de continentes, impactos de asteroides), obligando a la vida a reinventarse.
+
+Veamos los hitos de la historia de la vida a través de los grandes grupos de seres vivos.
+
+## 3.1. El origen y el dominio invisible: los procariotas
+
+Durante los primeros 2.000 millones de años, la Tierra estuvo habitada exclusivamente por organismos unicelulares sin núcleo (procariotas: bacterias y arqueas).
+
+- **El gran salto evolutivo (la fotosíntesis):** las cianobacterias desarrollaron la capacidad de romper moléculas de agua usando la luz solar para obtener energía, liberando oxígeno como residuo.
+
+- **Justificación evolutiva:** este desecho químico (el oxígeno) era venenoso para la mayoría de los seres vivos de la época. Provocó una extinción masiva de organismos anaerobios, pero abrió un nicho ecológico completamente nuevo: la **respiración celular aeróbica**, que es muchísimo más eficiente energéticamente y permitió la aparición de vida más grande y compleja.
+
+:::{style="text-align:center;"}
+![Imagen representativa de la vida primitiva en la Tierra](media/image9.png){width="5.9in"}
+:::
+
+## 3.2. La complejidad celular y el \"Big Bang\" de la vida animal
+
+- **Aparecen los eucariotas y seres pluricelulares:** gracias a la abundancia de oxígeno, las células se hicieron más complejas (con núcleo y orgánulos) mediante la *endosimbiosis* (células que se \"tragaron\" a otras y aprendieron a trabajar juntas). Al final del Precámbrico, estas células se agruparon formando los primeros seres pluricelulares.
+
+- **La Explosión Cámbrica (hace 540 Ma):** en el periodo Paleozoico, aparecen casi todos los grandes grupos (filos) de animales que conocemos hoy.
+
+- **Justificación evolutiva:** aparece una presión ambiental nueva: **la depredación**. Para defenderse de ser comidos (o para comer mejor), la selección natural favoreció la aparición de las primeras estructuras duras: **conchas, caparazones y esqueletos** (como los de los icónicos *trilobites*). Las armas y las armaduras cambiaron la evolución para siempre.
+
+:::{style="text-align:center;"}
+![Imagen representativa de la vida en la Tierra durante la explosión Cámbrica](media/image10.png){width="5.9in"}
+:::
+
+## 3.3. La conquista de la tierra firme: plantas y vertebrados
+
+Hasta la mitad del Paleozoico, la vida era exclusivamente marina. La tierra firme era un desierto de roca estéril debido a la radiación ultravioleta del Sol.
+
+- **El filtro solar (la capa de ozono):** la acumulación de oxígeno en la atmósfera dio origen a la capa de ozono (O~3~), que actúa como un escudo contra la radiación solar dañina.
+
+- **Justificación evolutiva frente a la gravedad y la sequedad:**
+
+   - **Las plantas:** para salir del agua, las plantas tuvieron que desarrollar **vasos conductores** (como venas) para transportar agua hacia arriba y **lignina** (madera) para mantenerse de pie contra la gravedad.
+
+   - **Los vertebrados:** los peces pulmonados evolucionaron hacia los **anfibios** (con patas). Sin embargo, seguían atados al agua para reproducirse (sus huevos eran gelatinosos). La verdadera revolución llegó con los **reptiles** y el invento del **huevo amniótico** (un huevo con cáscara impermeable que funciona como una \"mini-piscina\" privada). Esto les permitió colonizar el interior de los continentes.
+
+## 3.4. La era de los reptiles y el éxito de los dinosaurios
+
+Durante el Mesozoico, el planeta se volvió cálido, árido en el interior y con megacontinentes fragmentándose.
+
+- **El dominio de los grandes reptiles:** los dinosaurios dominaron la tierra, los pterosaurios el aire y los ictiosaurios los mares.
+
+- **Justificación evolutiva:** tras la extinción masiva del Pérmico (que eliminó al 95% de las especies), el planeta quedó casi vacío. Los reptiles, con su piel escamosa que evita la deshidratación y su metabolismo adaptado a climas cálidos, sufrieron una **radiación adaptativa**: ocuparon rápidamente todos los nichos ecológicos disponibles que habían quedado desiertos.
+
+:::{style="text-align:center;"}
+![Imagen representativa de la vida en la Tierra durante el Mesozoico](media/image11.png){width="5.9in"}
+:::
+
+## 3.5. El relevo histórico: el ascenso de los mamíferos y las plantas con flores
+
+Hace 66 millones de años, un asteroide golpeó la Tierra, terminando con la era de los dinosaurios.
+
+- **De la sombra a la cima:** durante el Mesozoico, los mamíferos ya existían, pero eran pequeños animales nocturnos similares a ratas que vivían escondidos. Tras el impacto, ellos sobrevivieron y los grandes dinosaurios murieron.
+
+- **Justificación evolutiva (homeotermia y flexibilidad):** el impacto del asteroide provocó un invierno global (sin luz solar, colapso de plantas y frío extremo). Los dinosaurios, al ser tan grandes, necesitaban toneladas de comida diaria y sufrieron el frío. Los mamíferos sobrevivieron porque:
+
+   1. Eran **homeotermos (de sangre caliente)** y tenían pelo, tolerando el cambio climático.
+
+   2. Eran pequeños y necesitaban poco alimento (podían comer insectos o semillas del suelo).
+
+   3. Al quedar el planeta libre de grandes depredadores, los mamíferos experimentaron su propia radiación adaptativa en el Cenozoico, ocupando el lugar de los dinosaurios (los delfines ocuparon el nicho de los reptiles marinos, los murciélagos el de los pterosaurios, etc.).
+
+Al mismo tiempo, las plantas con flores (**angiospermas**) se convirtieron en las reinas del planeta porque su reproducción mediante flores y frutos atraía a los insectos y animales, un sistema de dispersión mucho más eficaz que confiar solo en el viento.
+
+# 4. Los principales grupos taxonómicos: características fundamentales. Importancia de la conservación de la biodiversidad
+
+La taxonomía actual clasifica a los seres vivos basándose en sus relaciones evolutivas. Aunque existen varias propuestas, la más aceptada divide la vida en **tres Dominios**, los cuales se subdividen en **Reinos**.
+
+## 4.1. Los grupos taxonómicos
+
+Aquí se presentan las características fundamentales de los grupos taxonómicos más importantes:
+
+**A. Dominio Archaea (Arqueas)**
+
+- **Tipo celular:** procariotas unicelulares (sin núcleo).
+
+- **Pared celular:** presente, pero con una composición química única (sin peptidoglicano).
+
+- **Clave:** son famosas por ser **extremófilas**; viven en ambientes donde otros morirían (fuentes termales, fondos marinos hipersalinos, ambientes ácidos).
+
+:::{style="text-align:center;"}
+![](media/image12.png){width="5.905555555555556in" height="3.2215277777777778in"}
+:::
+
+**B. Dominio Bacteria (Bacterias)**
+
+- **Tipo celular:** procariotas unicelulares.
+
+- **Pared celular:** compuesta por **peptidoglicano**.
+
+- **Clave:** tienen un éxito metabólico brutal (las hay autótrofas, heterótrofas, fotosintéticas como las cianobacterias, etc.). Son esenciales para los ciclos biogeoquímicos (como el del nitrógeno) y también incluyen patógenos humanos.
+
+::: {style="text-align:center;"}
+![](media/image13.png){width="5.9in"}
+:::
+
+**C. Dominio Eukarya (Eucariotas)**
+
+Incluye a todos los organismos con células complejas (con núcleo y orgánulos). Tradicionalmente se divide en cuatro reinos:
+
+- **Reino Protista (o Protoctistas):** es el \"cajón de sastre\". Son eucariotas mayoritariamente unicelulares (como las amebas o paramecios) o pluricelulares sencillos sin tejidos verdaderos (como las algas pardas). Pueden ser autótrofos o heterótrofos.
+
+- **Reino Fungi (Hongos):** eucariotas heterótrofos (por absorción). Sus paredes celulares son de **quitina**. Pueden ser unicelulares (levaduras) o pluricelulares formados por filamentos llamados hifas (mohos y setas). Son descomponedores clave.
+
+- **Reino Plantae (Plantas):** eucariotas pluricelulares con **tejidos verdaderos**. Son autótrofos fotosintéticos gracias a la clorofila, y sus paredes celulares son de **celulosa**.
+
+- **Reino Animalia (Animales):** eucariotas pluricelulares con tejidos especializados (nervioso, muscular, etc.). Son heterótrofos por ingestión y carecen de pared celular.
+
+::: {style="text-align:center;"}
+![](media/image14.png){width="5.9in"}
+:::
+
+## 4.2. Importancia de la Conservación de la Biodiversidad
+
+La biodiversidad no consiste solo en \"que haya muchos animales bonitos en el planeta\"; es la variedad de genes, especies y ecosistemas que sostienen la vida en la Tierra. Su conservación es crucial por tres razones principales:
+
+- **Servicios ecosistémicos básicos:** los ecosistemas sanos regulan el clima, depuran el agua, generan oxígeno, polinizan los cultivos y forman el suelo fértil. Si la biodiversidad cae, estos servicios se desestabilizan.
+
+- **Recurso económico y médico:** gran parte de las medicinas actuales (como la penicilina o la aspirina) provienen de compuestos descubiertos en hongos o plantas. Además, la seguridad alimentaria mundial depende de mantener una rica variedad genética de especies cultivables frente a plagas y cambio climático.
+
+- **Estabilidad de las redes tróficas:** en Biología, la diversidad es sinónimo de resiliencia. Si una especie desaparece de un ecosistema simplificado, todo el sistema puede colapsar. En cambio, un ecosistema biodiverso tiene \"vías de escape\" y alternativas para autorregularse.
